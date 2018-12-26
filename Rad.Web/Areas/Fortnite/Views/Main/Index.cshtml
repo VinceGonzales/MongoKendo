@@ -1,7 +1,20 @@
-﻿
+﻿@using Rad.Web.Areas.Fortnite.Models
+@model List<SchematicVM>
 @{
     ViewBag.Title = "Fortnite";
 }
 
-<h2>Fortnite</h2>
-
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <ul>
+            @foreach (SchematicVM schematic in Model)
+            {
+                <li>
+                    <div>@schematic.name - @schematic.level</div>
+                </li>
+            }
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,4 +1,8 @@
-﻿using System.Web.Mvc;
+﻿using Newtonsoft.Json;
+using Rad.Web.Areas.Fortnite.Models;
+using System.Collections.Generic;
+using System.IO;
+using System.Web.Mvc;
 
 namespace Rad.Web.Areas.Fortnite.Controllers
 {
@@ -6,7 +10,14 @@ namespace Rad.Web.Areas.Fortnite.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            List<SchematicVM> viewModel = null;
+            string filePath = Server.MapPath("~/App_Data/schematics.json");
+            using (StreamReader r = new StreamReader(filePath))
+            {
+                string json = r.ReadToEnd();
+                viewModel = JsonConvert.DeserializeObject<List<SchematicVM>>(json);
+            }
+            return View(viewModel);
         }
     }
 }
