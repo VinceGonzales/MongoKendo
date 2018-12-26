@@ -1,0 +1,50 @@
+﻿html, body {
+	height: 100%;
+}
+
+.page-header {
+	border-bottom: none !important;
+	padding-bottom: 0px !important;
+	margin: 0px !important;
+}
+.heading h1 {
+	margin-left: 14px;
+}
+.heading h1 > a, .heading .pnlHeadContainer a {
+	color: #ffffff !important;
+}
+.heading h1 > a:hover, .heading .pnlHeadContainer a:hover {
+	text-decoration: none !important;
+}
+.page-header .navbar {
+	margin-bottom: 0px !important;
+}
+.pnlUserGreeting {
+	margin-top: 24px;
+}
+.navbar-default {
+	background-color: #337ab7;
+	border-color: #337ab7;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus {
+	color: #ffffff;
+	background-color: #337ab7;
+}
+.navbar-default .navbar-nav > .active > a:hover {
+	color: #ffffff;
+	background-color: #3a90d9;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+	color: #ffffff;
+	background-color: #3a90d9;
+}

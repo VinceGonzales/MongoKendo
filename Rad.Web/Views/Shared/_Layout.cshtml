@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="" />
+    <meta name="description" content="Xolartek Solutions" />
+    <title>@ViewBag.Title - Xolartek Solutions</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("header", required: false)
+</head>
+<body>
+    <div class="container heading">
+        <div class="row bg-primary">
+            <div class="col-md-9">
+                <h1>Xolartek Solutions</h1>
+            </div>
+        </div>
+        <div class="row bg-primary">
+            <div class="col-md-9">
+                <div class="page-header">
+                    <nav class="navbar navbar-default">
+                        <div class="container-fluid">
+                            <ul class="nav navbar-nav">
+                                <li class="active dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Jump To <span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href='@Url.Action("Index", "Main", new { Area = "RDR2" })'>Red Dead Redemption 2</a></li>
+                                        <li><a href='@Url.Action("Index", "Main", new { Area = "Fortnite" })'>Fortnite</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <div class="col-md-3 text-right pnlHeadContainer">
+                <div class="pnlUserGreeting">Login&nbsp;&nbsp;</div>
+            </div>
+        </div>
+    </div>
+    @RenderBody()
+    <div class="container">
+        <footer>
+            <p>Copyright &copy; @DateTime.Now.Year - Xolartek Solutions</p>
+        </footer>
+    </div>
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>
