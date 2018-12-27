@@ -41,7 +41,7 @@ namespace Rad.Web.Areas.Fortnite.Controllers
                 {
                     schemType = SchemType.Blunt;
                 }
-                else if (s.description.IndexOf("explosive") > 0)
+                else if (s.description.IndexOf("launcher") > 0)
                 {
                     schemType = SchemType.Explosive;
                 }
@@ -60,6 +60,18 @@ namespace Rad.Web.Areas.Fortnite.Controllers
                 else if (s.description.IndexOf("sword") > 0)
                 {
                     schemType = SchemType.Sword;
+                }
+                else if (s.description.IndexOf("axe") > 0)
+                {
+                    schemType = SchemType.Axe;
+                }
+                else if (s.description.IndexOf("scythe") > 0)
+                {
+                    schemType = SchemType.Scythe;
+                }
+                else if (s.description.IndexOf("spear") > 0)
+                {
+                    schemType = SchemType.Spear;
                 }
                 else
                 {

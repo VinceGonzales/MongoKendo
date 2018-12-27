@@ -20,6 +20,6 @@ namespace Rad.Web.Areas.Fortnite.Models
     }
     public enum SchemType
     {
-        Assault, Blunt, Explosive, Pistol, Shotgun, Sniper, Sword, Trap
+        Assault, Axe, Blunt, Explosive, Pistol, Scythe, Shotgun, Sniper, Spear, Sword, Trap
     }
 }

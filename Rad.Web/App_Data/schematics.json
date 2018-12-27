@@ -1209,7 +1209,8 @@
     ]
   },
   {
-    "name": "Lightning Pistol",
+    "imgurl": "/content/images/Lightning_pistol_icon.png",
+	"name": "Lightning Pistol",
     "level": "30",
     "stars": 3,
     "description": "Schematic:sid_pistol_vacuumtube_auto_sr_ore_t03",
@@ -2066,7 +2067,8 @@
     ]
   },
   {
-    "name": "Snowball Launcher",
+    "imgurl": "/content/images/Snowball_launcher_icon.png",
+	"name": "Snowball Launcher",
     "level": "30",
     "stars": 3,
     "description": "Schematic:sid_launcher_grenade_winter_sr_ore_t03",
