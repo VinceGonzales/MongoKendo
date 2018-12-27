@@ -105,6 +105,12 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\30px-Energy_cells_icon.png" />
+    <Content Include="Content\images\30px-Heavy_bullets_icon.png" />
+    <Content Include="Content\images\30px-Light_bullets_icon.png" />
+    <Content Include="Content\images\30px-Medium_bullets_icon.png" />
+    <Content Include="Content\images\30px-Rockets_icon.png" />
+    <Content Include="Content\images\30px-Shells_n_slugs_icon.png" />
     <Content Include="Content\images\Lightning_pistol_icon.png" />
     <Content Include="Content\images\Snowball_launcher_icon.png" />
     <Content Include="Content\images\T-Icon-BR-SM-Athena-Campfire-L.png" />

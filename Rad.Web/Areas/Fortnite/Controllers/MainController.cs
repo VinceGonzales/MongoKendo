@@ -18,6 +18,20 @@ namespace Rad.Web.Areas.Fortnite.Controllers
         public JsonResult GetSchematics()
         {
             List<SchematicVM> viewModel = new List<SchematicVM>();
+            string filePath = Server.MapPath("~/App_Data/updated-schematics.json");
+            using (StreamReader r = new StreamReader(filePath))
+            {
+                string json = r.ReadToEnd();
+                viewModel = JsonConvert.DeserializeObject<List<SchematicVM>>(json);
+            }
+            
+            return Json(viewModel, JsonRequestBehavior.AllowGet);
+        }
+
+        [AcceptVerbs(HttpVerbs.Get)]
+        public JsonResult GetSchematicsOld()
+        {
+            List<SchematicVM> viewModel = new List<SchematicVM>();
             string filePath = Server.MapPath("~/App_Data/schematics.json");
             using (StreamReader r = new StreamReader(filePath))
             {

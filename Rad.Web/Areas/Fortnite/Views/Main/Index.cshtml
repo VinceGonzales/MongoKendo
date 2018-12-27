@@ -17,6 +17,34 @@
         </div>
     </div>
 </div>
+<script id="tmplDetail" type="text/x-kendo-tmpl">
+    <div>#: SchematicType#</div>
+    <div>
+        #if(AmmoType=='Light Bullets'){#
+        <img src='@Url.Content("~/content/images/30px-Light_bullets_icon.png")' style="background-color:black;" />
+        #}else if(AmmoType=='Medium Bullets'){#
+        <img src='@Url.Content("~/content/images/30px-Medium_bullets_icon.png")' style="background-color:black;" />
+        #}else if(AmmoType=='Energy Cells'){#
+        <img src='@Url.Content("~/content/images/30px-Energy_cells_icon.png")' style="background-color:black;" />
+        #}else if(AmmoType=='Heavy Bullets'){#
+        <img src='@Url.Content("~/content/images/30px-Heavy_bullets_icon.png")' style="background-color:black;" />
+        #}else if(AmmoType=='Rockets'){#
+        <img src='@Url.Content("~/content/images/30px-Rockets_icon.png")' style="background-color:black;" />
+        #}else if(AmmoType=="Shells n Slugs"){#
+        <img src='@Url.Content("~/content/images/30px-Shells_n_slugs_icon.png")' style="background-color:black;" />
+        #}#
+
+        #if(DamageType=='Fire'){#
+        <i class='fas fa-fire'></i>
+        #}else if(DamageType=='Nature'){#
+        <i class='fas fa-tree'></i>
+        #}else if(DamageType=='Water'){#
+        <i class='fas fa-snowflake'></i>
+        #}else if(DamageType=='Energy'){#
+        <i class='fas fa-bolt'></i>
+        #}#
+    </div>
+</script>
 
 @section scripts {
     <script src="@Url.Content("~/scripts/utility.js")" type="text/javascript"></script>
@@ -41,7 +69,7 @@
                 { field: "name", title: "Name", width: 80 },
                 { field: "level", title: "Level", width: 80 },
                 { field: "stars", title: "Rating", width: 80, template: "#= StarLabel(data.stars) #" },
-                { field: "SchematicType", title: "Type", width: 80, filterable: { ui: typeFilter } },
+                { field: "SchematicType", title: "Type", width: 80, filterable: { ui: typeFilter }, template: kendo.template($("#tmplDetail").html()) },
                 { field: "imgurl", title: " ", width: 110, template: fn_ImgTemplate, filterable: false }
             ],
             filterable: {
