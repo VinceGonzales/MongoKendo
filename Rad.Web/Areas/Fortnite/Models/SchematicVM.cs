@@ -10,5 +10,16 @@ namespace Rad.Web.Areas.Fortnite.Models
         public int stars { get; set; }
         public string description { get; set; }
         public List<TraitVM> stat { get; set; }
+
+        public string SchematicType { get; set; }
+
+        public SchematicVM()
+        {
+            stat = new List<TraitVM>();
+        }
+    }
+    public enum SchemType
+    {
+        Assault, Blunt, Explosive, Pistol, Shotgun, Sniper, Sword, Trap
     }
 }

@@ -10,14 +10,63 @@ namespace Rad.Web.Areas.Fortnite.Controllers
     {
         public ActionResult Index()
         {
-            List<SchematicVM> viewModel = null;
+            return View();
+        }
+
+        [AcceptVerbs(HttpVerbs.Get)]
+        public JsonResult GetSchematics()
+        {
+            List<SchematicVM> viewModel = new List<SchematicVM>();
             string filePath = Server.MapPath("~/App_Data/schematics.json");
             using (StreamReader r = new StreamReader(filePath))
             {
                 string json = r.ReadToEnd();
                 viewModel = JsonConvert.DeserializeObject<List<SchematicVM>>(json);
             }
-            return View(viewModel);
+            HydrateOptFields(viewModel);
+            return Json(viewModel, JsonRequestBehavior.AllowGet);
+        }
+
+        private void HydrateOptFields(List<SchematicVM> vm)
+        {
+            SchemType schemType;
+
+            foreach (SchematicVM s in vm)
+            {
+                if (s.description.IndexOf("assault") > 0)
+                {
+                    schemType = SchemType.Assault;
+                }
+                else if (s.description.IndexOf("blunt") > 0)
+                {
+                    schemType = SchemType.Blunt;
+                }
+                else if (s.description.IndexOf("explosive") > 0)
+                {
+                    schemType = SchemType.Explosive;
+                }
+                else if (s.description.IndexOf("pistol") > 0)
+                {
+                    schemType = SchemType.Pistol;
+                }
+                else if (s.description.IndexOf("shotgun") > 0)
+                {
+                    schemType = SchemType.Shotgun;
+                }
+                else if (s.description.IndexOf("sniper") > 0)
+                {
+                    schemType = SchemType.Sniper;
+                }
+                else if (s.description.IndexOf("sword") > 0)
+                {
+                    schemType = SchemType.Sword;
+                }
+                else
+                {
+                    schemType = (SchemType)System.Enum.Parse(typeof(SchemType), "Trap");
+                }
+                s.SchematicType = schemType.ToString();
+            }
         }
     }
 }
