@@ -373,6 +373,7 @@
     <Content Include="Content\kendo\2018.2.620\images\KendoUI.woff" />
     <Content Include="Content\kendo\2018.2.620\fonts\glyphs\WebComponentsIcons.ttf" />
     <Content Include="Content\kendo\2018.2.620\fonts\glyphs\WebComponentsIcons.woff" />
+    <Content Include="App_Data\updated-schematics.json" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />

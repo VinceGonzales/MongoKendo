@@ -45,6 +45,7 @@ namespace Rad.Web.Areas.Fortnite.Controllers
                 else if (s.description.IndexOf("launcher") > 0)
                 {
                     schemType = SchemType.Explosive;
+                    s.AmmoType = "Rockets";
                 }
                 else if (s.description.IndexOf("pistol") > 0)
                 {
@@ -53,6 +54,7 @@ namespace Rad.Web.Areas.Fortnite.Controllers
                 else if (s.description.IndexOf("shotgun") > 0)
                 {
                     schemType = SchemType.Shotgun;
+                    s.AmmoType = "Shells 'n' Slugs";
                 }
                 else if (s.description.IndexOf("sniper") > 0)
                 {
