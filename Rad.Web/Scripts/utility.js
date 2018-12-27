@@ -20,6 +20,25 @@ function onChange(arg) {
     console.log(selectedDataItems);
 }
 
+function detailInit(e) {
+    $("<div/>").appendTo(e.detailCell).kendoGrid({
+        dataSource: {
+            data: e.data.stat,
+            schema: {
+                model: {
+                    fields: { name: { type: "string" }, value: { type: "string" }, level: { type: "string" } }
+                }
+            }
+        },
+        scrollable: false,
+        sortable: false,
+        columns: [
+            { field: "name", title: "Trait", width: "100px" },
+            { field: "value", title: "Impact", width: "40px" }
+        ]
+    });
+}
+
 function fn_ImgTemplate(item) {
     var str = "";
     var color = "";
