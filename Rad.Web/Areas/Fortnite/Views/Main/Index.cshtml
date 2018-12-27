@@ -42,7 +42,7 @@
                 { field: "level", title: "Level", width: 80 },
                 { field: "stars", title: "Rating", width: 80, template: "#= StarLabel(data.stars) #" },
                 { field: "SchematicType", title: "Type", width: 80, filterable: { ui: typeFilter } },
-                { field: "imgurl", title: " ", width: 110, template: fn_ImgTemplate }
+                { field: "imgurl", title: " ", width: 110, template: fn_ImgTemplate, filterable: false }
             ],
             filterable: {
                 extra: false,

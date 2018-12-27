@@ -5,7 +5,8 @@ var schemSchematicDto = {
     level: { type: "number" },
     stars: { type: "number" },
     description: { type: "string" },
-    SchematicType: { type: "string" }
+    SchematicType: { type: "string" },
+    DamageType: { type: "string" }
 }
 
 function onChange(arg) {
@@ -21,7 +22,24 @@ function onChange(arg) {
 
 function fn_ImgTemplate(item) {
     var str = "";
-    str += "<img src='" + item.imgurl + "' style='width:100px;' />";
+    var color = "";
+    switch (item.DamageType) {
+        case "Fire":
+            color = "background-color:#E88B99;";
+            break;
+        case "Nature":
+            color = "background-color:#DDBE99;";
+            break;
+        case "Water":
+            color = "background-color:#B7C9FF;";
+            break;
+        case "Energy":
+            color = "";
+            break;
+        default:
+            color = "background-color:#C0C5C1;";
+    }
+    str += "<img src='" + item.imgurl + "' style='width:100px;" + color + ";' />";
     return str;
 }
 

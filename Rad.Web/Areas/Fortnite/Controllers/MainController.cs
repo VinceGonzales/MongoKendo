@@ -2,6 +2,7 @@
 using Rad.Web.Areas.Fortnite.Models;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Web.Mvc;
 
 namespace Rad.Web.Areas.Fortnite.Controllers
@@ -78,6 +79,12 @@ namespace Rad.Web.Areas.Fortnite.Controllers
                     schemType = (SchemType)System.Enum.Parse(typeof(SchemType), "Trap");
                 }
                 s.SchematicType = schemType.ToString();
+
+                TraitVM trait = s.stat.FirstOrDefault(x => x.name.Contains("DamageElement"));
+                if (trait != null)
+                {
+                    s.DamageType = trait.name.Replace("DamageElement: ", "");
+                }
             }
         }
     }

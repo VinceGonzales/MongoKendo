@@ -12,10 +12,12 @@ namespace Rad.Web.Areas.Fortnite.Models
         public List<TraitVM> stat { get; set; }
 
         public string SchematicType { get; set; }
+        public string DamageType { get; set; }
 
         public SchematicVM()
         {
             stat = new List<TraitVM>();
+            DamageType = "Physical";
         }
     }
     public enum SchemType
