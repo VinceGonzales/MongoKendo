@@ -1,4 +1,4 @@
-﻿
+﻿var schematicTypes = ["Assault", "Axe", "Blunt", "Explosive", "Pistol", "Scythe", "Shotgun", "Sniper", "Spear", "Sword", "Trap"];
 var schemSchematicDto = {
     imgurl: { type: "string" },
     name: { type: "string" },
@@ -23,6 +23,21 @@ function fn_ImgTemplate(item) {
     var str = "";
     str += "<img src='" + item.imgurl + "' style='width:100px;' />";
     return str;
+}
+
+function StarLabel(data) {
+    var result = '';
+    for (var i = 0; i < data; i++) {
+        result += "<span class='fas fa-star fa-lg'></span>";
+    }
+    return result;
+}
+
+function typeFilter(element) {
+    element.kendoDropDownList({
+        dataSource: schematicTypes,
+        optionLabel: "--Select Value--"
+    });
 }
 
 function guid() {

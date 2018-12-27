@@ -2,6 +2,7 @@
     ViewBag.Title = "Fortnite";
 }
 @section header {
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     @Styles.Render("~/Content/css/kendoui2018")
     @Scripts.Render("~/bundles/kendoui2018")
 }
@@ -39,11 +40,20 @@
             columns: [
                 { field: "name", title: "Name", width: 80 },
                 { field: "level", title: "Level", width: 80 },
-                { field: "stars", title: "Rating", width: 80 },
-                { field: "SchematicType", title: "Type", width: 80 },
+                { field: "stars", title: "Rating", width: 80, template: "#= StarLabel(data.stars) #" },
+                { field: "SchematicType", title: "Type", width: 80, filterable: { ui: typeFilter } },
                 { field: "imgurl", title: " ", width: 110, template: fn_ImgTemplate }
             ],
-            filterable: false,
+            filterable: {
+                extra: false,
+                operators: {
+                    string: {
+                        startswith: "Starts with",
+                        eq: "Is equal to",
+                        neq: "Is not equal to"
+                    }
+                }
+            },
             sortable: true,
             height: 500,
             change: onChange,
