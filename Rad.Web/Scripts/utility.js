@@ -18,7 +18,22 @@ function onChange(arg) {
         selectedDataItems.push(dataItem);
     }
     // selectedDataItems contains all selected data items
-    console.log(selectedDataItems);
+    $("#pnlDetail").kendoGrid({
+        dataSource: {
+            data: selectedDataItems[0].Materials,
+            schema: {
+                model: {
+                    fields: { prefix: { type: "string" }, name: { type: "string" }, value: { type: "string" } }
+                }
+            }
+        },
+        scrollable: false,
+        sortable: false,
+        columns: [
+            { field: "name", title: "Material", width: "80px", template: "#: prefix # #: name #" },
+            { field: "value", title: "Amount", width: "40px" }
+        ]
+    });
 }
 
 function detailInit(e) {

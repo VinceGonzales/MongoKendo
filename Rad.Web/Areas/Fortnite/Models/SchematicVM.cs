@@ -14,11 +14,13 @@ namespace Rad.Web.Areas.Fortnite.Models
         public string SchematicType { get; set; }
         public string DamageType { get; set; }
         public string AmmoType { get; set; }
+        public List<MaterialVM> Materials { get; set; }
 
         public SchematicVM()
         {
             stat = new List<TraitVM>();
             DamageType = "Physical";
+            Materials = new List<MaterialVM>();
         }
     }
     public enum SchemType

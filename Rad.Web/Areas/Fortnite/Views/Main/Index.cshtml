@@ -2,9 +2,15 @@
     ViewBag.Title = "Fortnite";
 }
 @section header {
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-    @Styles.Render("~/Content/css/kendoui2018")
-    @Scripts.Render("~/bundles/kendoui2018")
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+@Styles.Render("~/Content/css/kendoui2018")
+@Scripts.Render("~/bundles/kendoui2018")
+<style>
+    #pnlMain.k-grid.k-widget,
+    #pnlDetail.k-grid.k-widget {
+        border-style: none;
+    }
+</style>
 }
 <div class="container">
     <div class="row">
@@ -13,7 +19,9 @@
         </div>
     </div>
     <div class="row">
-        <div id="pnlMain" class="col-md-8">
+        <div id="pnlMain" class="col-md-7">
+        </div>
+        <div id="pnlDetail" class="col-md-4">
         </div>
     </div>
 </div>
