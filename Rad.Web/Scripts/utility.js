@@ -23,14 +23,15 @@ function onChange(arg) {
             data: selectedDataItems[0].Materials,
             schema: {
                 model: {
-                    fields: { prefix: { type: "string" }, name: { type: "string" }, value: { type: "string" } }
+                    fields: { prefix: { type: "string" }, name: { type: "string" }, value: { type: "string" }, imgurl: { type: "string" } }
                 }
             }
         },
         scrollable: false,
         sortable: false,
         columns: [
-            { field: "name", title: "Material", width: "80px", template: "#: prefix # #: name #" },
+            { field: "imgurl", title: " ", width: 40, template: fn_ImgTemplate },
+            { field: "name", title: "Material", width: "60px", template: "#: prefix # #: name #" },
             { field: "value", title: "Amount", width: "40px" }
         ]
     });
