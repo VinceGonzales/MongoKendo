@@ -58,7 +58,7 @@ function detailInit(e) {
 
 function fn_ImgTemplate(item) {
     var str = "";
-    str += "<img src='" + item.imgurl + "' style='width:100px;' />";
+    str += "<img src='" + item.imgurl + "' style='width:80px;' />";
     return str;
 }
 
