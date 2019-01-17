@@ -1,4 +1,5 @@
 ﻿var schematicTypes = ["Assault", "Axe", "Blunt", "Explosive", "Pistol", "Scythe", "Shotgun", "Sniper", "Spear", "Sword", "Trap"];
+var ammoTypes = ["Energy Cells", "Heavy Bullets", "Light Bullets", "Medium Bullets"];
 var schemSchematicDto = {
     imgurl: { type: "string" },
     name: { type: "string" },
@@ -73,6 +74,14 @@ function StarLabel(data) {
 function typeFilter(element) {
     element.kendoDropDownList({
         dataSource: schematicTypes,
+        optionLabel: "--Select Value--"
+    });
+}
+
+function ammoFilter(element) {
+    console.log(element);
+    element.kendoDropDownList({
+        dataSource: ammoTypes,
         optionLabel: "--Select Value--"
     });
 }
