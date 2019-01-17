@@ -75,10 +75,12 @@
             dataSource: dataSourceSchematic,
             columns: [
                 { field: "name", title: "Name", width: 80 },
-                { field: "level", title: "Level", width: 80 },
-                { field: "stars", title: "Rating", width: 80, template: "#= StarLabel(data.stars) #" },
+                { field: "level", title: "Level", width: 60 },
+                { field: "stars", title: "Rating", width: 90, template: "#= StarLabel(data.stars) #" },
                 { field: "SchematicType", title: "Type", width: 80, filterable: { ui: typeFilter }, template: kendo.template($("#tmplDetail").html()) },
-                { field: "imgurl", title: " ", width: 110, template: fn_ImgTemplate, filterable: false }
+                { field: "imgurl", title: " ", width: 90, template: fn_ImgTemplate, filterable: false },
+                { field: "DamageType", title: "DamageType", width: 80, hidden: true },
+                { field: "AmmoType", title: "AmmoType", width: 80, hidden: true }
             ],
             filterable: {
                 extra: false,

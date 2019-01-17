@@ -85,3 +85,12 @@ function guid() {
     }
     return s4() + s4() + '-' + s4() + '-' + s4() + '-' + s4() + '-' + s4() + s4() + s4();
 }
+
+function applyFilter() {
+    dataSourceSchematic.filter([
+        { "field": "stars", "operator": "gt", "value": 2 },
+        { "field": "SchematicType", "operator": "eq", "value": "Assault" },
+        { "field": "AmmoType", "operator": "eq", "value": "Medium Bullets" },
+        { "field": "DamageType", "operator": "eq", "value": "Fire" }
+    ]);
+}
