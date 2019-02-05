@@ -127,6 +127,7 @@
     <Content Include="Content\images\120px-Efficient_mechanical_parts_icon.png" />
     <Content Include="Content\images\120px-Fibrous_herbs_icon.png" />
     <Content Include="Content\images\120px-Fine-grain_mineral_powder_icon.png" />
+    <Content Include="Content\images\120px-Jack-o-launcher_icon.png" />
     <Content Include="Content\images\120px-Malachite_ore_icon.png" />
     <Content Include="Content\images\120px-Nuts_n_bolts_icon.png" />
     <Content Include="Content\images\120px-Obsidian_ore_icon.png" />
@@ -139,6 +140,7 @@
     <Content Include="Content\images\120px-Silver_ore_icon.png" />
     <Content Include="Content\images\120px-Simple_mechanical_parts_icon.png" />
     <Content Include="Content\images\120px-Sleek_mechanical_parts_icon.png" />
+    <Content Include="Content\images\120px-Snowball_launcher_icon.png" />
     <Content Include="Content\images\120px-Sturdy_mechanical_parts_icon.png" />
     <Content Include="Content\images\120px-Sturdy_twine_icon.png" />
     <Content Include="Content\images\120px-Sunbeam_crystal_icon.png" />
@@ -155,12 +157,14 @@
     <Content Include="Content\images\T-Icon-BR-SM-Athena-Campfire-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-Arctic-Sniper-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-Assault-01-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-BaseballBat-Advanced-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-Ceiling-Gas-Trap-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-Cieling-Drop-TrapPickup-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-electric-ceiling-Trap.png" />
     <Content Include="Content\images\T-Icon-Weapons-Electric-Trap-Wall-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-Enemy-JumpPad-Floor-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-FireAxe-Advanced-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-Ghost_20Sword-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-Hunting-Rifle-01-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-Light-Trap-wall.png" />
     <Content Include="Content\images\T-Icon-Weapons-PDW-L.png" />
@@ -181,8 +185,10 @@
     <Content Include="Content\images\T-Icon-Weapons-SK-AutoHigh-Suppressed-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Bolt-Pistol-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Bolt-Rifle-With-Scope-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-SK-CorkGun-Shotgun-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Crossbow-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Crossbow-Valentines-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-SK-DeerBat-DeerBat-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Double-D-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Dragon-Drum-Assault-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Dragon-Hammer-L.png" />
@@ -208,9 +214,11 @@
     <Content Include="Content\images\T-Icon-Weapons-SK-Hydraulic-Style-Sniper-Rifle-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Hydraulic-Sword-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-M249-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-SK-MachineGun-01-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-MachineGun-Halloween-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Medieval-Axe-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Medieval-Hammer-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-SK-Medieval-Launcher-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-MedievalAssault-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-MedievalPistol01-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-MedievalShotgun-L.png" />
@@ -219,6 +227,7 @@
     <Content Include="Content\images\T-Icon-Weapons-SK-MilitaryHandAxe-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-MilitaryMachete-MilitaryMachete-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-MilitarySMG-Silenced-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-SK-MilitarySpear-MilitarySpear-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-MilitarySword-MilitarySword-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-MilitaryWarHammer-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Monsoon-L.png" />
@@ -229,12 +238,15 @@
     <Content Include="Content\images\T-Icon-Weapons-SK-Neon-Glow-Shotgun-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Neon-Glow-Sword-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-NeonGlow-Sniper-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-SK-NorthPole-Launcher-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Pistol-02-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Pistol-02BR-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Pistol-Auto-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Pistol-Cowboy-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Post-Apocalyptic-Assault-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-SK-Post-Apocalyptic-Launcher-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Post-Apocalyptic-Spear-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-SK-PumpkinLauncher-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Rat-Rod-Assault-Drum-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Rat-Rod-Bat-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Rat-Rod-Machine-Pistol-L.png" />
@@ -244,6 +256,7 @@
     <Content Include="Content\images\T-Icon-Weapons-SK-Rifle-HolidayTrain-Assault-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-RocketHammer-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-RPG7-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-SK-RulerSword-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-SAW-01-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-SCAR-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Scythe-L.png" />
@@ -252,7 +265,9 @@
     <Content Include="Content\images\T-Icon-Weapons-SK-Shredder-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-SocketWrench-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Space-Pistol-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-SK-Sword-03-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-Sword-Advanced-L.png" />
+    <Content Include="Content\images\T-Icon-Weapons-SK-Vigilante-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-VinderTech-Sledgehammer-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SK-VT-Launcher-L.png" />
     <Content Include="Content\images\T-Icon-Weapons-SM-egg-launcher-01-L.png" />
