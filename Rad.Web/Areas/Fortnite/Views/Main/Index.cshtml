@@ -25,8 +25,21 @@
         </div>
     </div>
 </div>
-<script id="tmplDetail" type="text/x-kendo-tmpl">
-    <div>#: SchematicType#</div>
+<script id="tmplType" type="text/x-kendo-tmpl">
+    <div>
+        #: SchematicType# &nbsp;
+        #if(DamageType=='Fire'){#
+        <i class='fas fa-fire'></i>
+        #}else if(DamageType=='Nature'){#
+        <i class='fas fa-tree'></i>
+        #}else if(DamageType=='Water'){#
+        <i class='fas fa-snowflake'></i>
+        #}else if(DamageType=='Energy'){#
+        <i class='fas fa-bolt'></i>
+        #}#
+    </div>
+</script>
+<script id="tmplAmmo" type="text/x-kendo-tmpl">
     <div>
         #if(AmmoType=='Light Bullets'){#
         <img src='@Url.Content("~/content/images/30px-Light_bullets_icon.png")' style="background-color:black;" />
@@ -40,16 +53,6 @@
         <img src='@Url.Content("~/content/images/30px-Rockets_icon.png")' style="background-color:black;" />
         #}else if(AmmoType=="Shells n Slugs"){#
         <img src='@Url.Content("~/content/images/30px-Shells_n_slugs_icon.png")' style="background-color:black;" />
-        #}#
-
-        #if(DamageType=='Fire'){#
-        <i class='fas fa-fire'></i>
-        #}else if(DamageType=='Nature'){#
-        <i class='fas fa-tree'></i>
-        #}else if(DamageType=='Water'){#
-        <i class='fas fa-snowflake'></i>
-        #}else if(DamageType=='Energy'){#
-        <i class='fas fa-bolt'></i>
         #}#
     </div>
 </script>
@@ -75,12 +78,12 @@
             dataSource: dataSourceSchematic,
             columns: [
                 { field: "name", title: "Name", width: 80 },
-                { field: "level", title: "Level", width: 60 },
+                { field: "level", title: "Level", width: 50 },
                 { field: "stars", title: "Rating", width: 90, template: "#= StarLabel(data.stars) #" },
-                { field: "SchematicType", title: "Type", width: 80, filterable: { ui: typeFilter }, template: kendo.template($("#tmplDetail").html()) },
+                { field: "SchematicType", title: "Type", width: 70, filterable: { ui: typeFilter }, template: kendo.template($("#tmplType").html()) },
+                { field: "AmmoType", title: "Ammo", width: 50, template: kendo.template($("#tmplAmmo").html()) },
                 { field: "imgurl", title: " ", width: 90, template: fn_ImgTemplate, filterable: false },
-                { field: "DamageType", title: "DamageType", width: 80, hidden: true },
-                { field: "AmmoType", title: "AmmoType", width: 80, hidden: true }
+                { field: "DamageType", title: "DamageType", width: 80, hidden: true }
             ],
             filterable: {
                 extra: false,
