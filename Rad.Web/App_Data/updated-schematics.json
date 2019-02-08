@@ -254,7 +254,7 @@
         "prefix": "Peaky",
         "name": "Twine",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       },
       {
         "prefix": "",
@@ -266,7 +266,7 @@
         "prefix": "Obsidian",
         "name": "Ore",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
       }
     ],
     "AmmoType": "Light Bullets"
@@ -322,7 +322,7 @@
         "prefix": "Peaky",
         "name": "Twine",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       },
       {
         "prefix": "",
@@ -334,7 +334,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": "8",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       },
       {
         "prefix": "",
@@ -390,19 +390,19 @@
         "prefix": "",
         "name": "Planks",
         "value": "5",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
         "prefix": "",
         "name": "Duct Tape",
         "value": "2",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Duct_tape_icon.png"
       },
       {
         "prefix": "Peaky",
         "name": "Twine",
         "value": 2,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       }
     ],
     "AmmoType": null
@@ -458,7 +458,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -470,7 +470,7 @@
         "prefix": "Obsidian",
         "name": "Ore",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
       }
     ],
     "AmmoType": "Heavy Bullets"
@@ -526,7 +526,7 @@
         "prefix": "Peaky",
         "name": "Twine",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       },
       {
         "prefix": "",
@@ -538,7 +538,7 @@
         "prefix": "Obsidian",
         "name": "Ore",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
       }
     ],
     "AmmoType": "Heavy Bullets"
@@ -588,25 +588,25 @@
         "prefix": "",
         "name": "Nuts n Bolts",
         "value": "11",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Nuts_n_bolts_icon.png"
       },
       {
         "prefix": "",
         "name": "Fibrous Herbs",
         "value": "7",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Fibrous_herbs_icon.png"
       },
       {
         "prefix": "Char-black",
         "name": "Mineral Powder",
         "value": 2,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Char-black_mineral_powder_icon.png"
       },
       {
         "prefix": "",
         "name": "Bacon",
         "value": 1,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Bacon_icon.png"
       }
     ],
     "AmmoType": null
@@ -662,7 +662,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -674,7 +674,7 @@
         "prefix": "Obsidian",
         "name": "Ore",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
       }
     ],
     "AmmoType": "Light Bullets"
@@ -724,19 +724,19 @@
         "prefix": "",
         "name": "Planks",
         "value": "8",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
         "prefix": "",
         "name": "Duct Tape",
         "value": "2",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Duct_tape_icon.png"
       },
       {
         "prefix": "Peaky",
         "name": "Twine",
         "value": 2,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       }
     ],
     "AmmoType": null
@@ -792,7 +792,7 @@
         "prefix": "Peaky",
         "name": "Twine",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       },
       {
         "prefix": "",
@@ -804,7 +804,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       }
     ],
     "AmmoType": "Heavy Bullets"
@@ -854,19 +854,19 @@
         "prefix": "",
         "name": "Planks",
         "value": "9",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "2",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "Peaky",
         "name": "Twine",
         "value": 3,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       }
     ],
     "AmmoType": null
@@ -916,13 +916,13 @@
         "prefix": "",
         "name": "Nuts n Bolts",
         "value": "11",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Nuts_n_bolts_icon.png"
       },
       {
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "3",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -984,7 +984,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -996,7 +996,7 @@
         "prefix": "Obsidian",
         "name": "Ore",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
       }
     ],
     "AmmoType": "Medium Bullets"
@@ -1052,7 +1052,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -1064,7 +1064,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       }
     ],
     "AmmoType": "Medium Bullets"
@@ -1114,13 +1114,13 @@
         "prefix": "",
         "name": "Planks",
         "value": "8",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
         "prefix": "Char-black",
         "name": "Mineral Powder",
         "value": "36",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Char-black_mineral_powder_icon.png"
       },
       {
         "prefix": "",
@@ -1132,7 +1132,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       }
     ],
     "AmmoType": null
@@ -1188,7 +1188,7 @@
         "prefix": "Peaky",
         "name": "Twine",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       },
       {
         "prefix": "",
@@ -1200,7 +1200,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       }
     ],
     "AmmoType": "Light Bullets"
@@ -1250,19 +1250,19 @@
         "prefix": "",
         "name": "Nuts n Bolts",
         "value": "12",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Nuts_n_bolts_icon.png"
       },
       {
         "prefix": "Rough",
         "name": "Ore",
         "value": "4",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Rough_ore_icon.png"
       },
       {
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": 3,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       }
     ],
     "AmmoType": null
@@ -1318,7 +1318,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -1330,7 +1330,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       }
     ],
     "AmmoType": "Light Bullets"
@@ -1386,13 +1386,13 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "12",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "Obsidian",
         "name": "Ore",
         "value": 3,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
       }
     ],
     "AmmoType": "Rockets"
@@ -1448,7 +1448,7 @@
         "prefix": "Peaky",
         "name": "Twine",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       },
       {
         "prefix": "",
@@ -1460,7 +1460,7 @@
         "prefix": "Obsidian",
         "name": "Ore",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
       }
     ],
     "AmmoType": "Medium Bullets"
@@ -1516,7 +1516,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "24",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -1528,7 +1528,7 @@
         "prefix": "Obsidian",
         "name": "Ore",
         "value": "8",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
       },
       {
         "prefix": "",
@@ -1652,7 +1652,7 @@
         "prefix": "Peaky",
         "name": "Twine",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       },
       {
         "prefix": "",
@@ -1664,7 +1664,7 @@
         "prefix": "Obsidian",
         "name": "Ore",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
       }
     ],
     "AmmoType": "Heavy Bullets"
@@ -1720,7 +1720,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -1732,7 +1732,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": "8",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       },
       {
         "prefix": "",
@@ -1788,13 +1788,13 @@
         "prefix": "",
         "name": "Nuts n Bolts",
         "value": "10",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Nuts_n_bolts_icon.png"
       },
       {
         "prefix": "Rough",
         "name": "Ore",
         "value": "3",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Rough_ore_icon.png"
       },
       {
         "prefix": "",
@@ -1806,7 +1806,7 @@
         "prefix": "Char-black",
         "name": "Mineral Powder",
         "value": 2,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Char-black_mineral_powder_icon.png"
       }
     ],
     "AmmoType": null
@@ -1862,7 +1862,7 @@
         "prefix": "Peaky",
         "name": "Twine",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       },
       {
         "prefix": "",
@@ -1874,7 +1874,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       }
     ],
     "AmmoType": "Medium Bullets"
@@ -1930,7 +1930,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -1942,7 +1942,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       }
     ],
     "AmmoType": "Medium Bullets"
@@ -2060,7 +2060,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -2072,7 +2072,7 @@
         "prefix": "Obsidian",
         "name": "Ore",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
       }
     ],
     "AmmoType": "Light Bullets"
@@ -2128,7 +2128,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -2140,7 +2140,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       }
     ],
     "AmmoType": "Heavy Bullets"
@@ -3231,7 +3231,7 @@
         "prefix": "",
         "name": "Planks",
         "value": "25",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
         "prefix": "Sturdy",
@@ -3367,7 +3367,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -3379,7 +3379,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       }
     ],
     "AmmoType": "Shells n Slugs"
@@ -3429,19 +3429,19 @@
         "prefix": "",
         "name": "Planks",
         "value": "8",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
         "prefix": "Rough",
         "name": "Ore",
         "value": "7",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Rough_ore_icon.png"
       },
       {
         "prefix": "Char-black",
         "name": "Mineral Powder",
         "value": 2,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Char-black_mineral_powder_icon.png"
       }
     ],
     "AmmoType": "Rockets"
@@ -3497,7 +3497,7 @@
         "prefix": "Sturdy",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sturdy_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -3806,19 +3806,19 @@
         "prefix": "",
         "name": "Planks",
         "value": "7",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
         "prefix": "Rough",
         "name": "Ore",
         "value": "7",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Rough_ore_icon.png"
       },
       {
         "prefix": "Char-black",
         "name": "Mineral Powder",
         "value": 2,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Char-black_mineral_powder_icon.png"
       }
     ],
     "AmmoType": null,
@@ -3869,13 +3869,13 @@
         "prefix": "",
         "name": "Nuts n Bolts",
         "value": "13",
-        "imgurl": "/content/images/1"
+        "imgurl": "/content/images/120px-Nuts_n_bolts_icon.png"
       },
       {
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "3",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -4303,13 +4303,13 @@
         "prefix": "",
         "name": "Nuts n Bolts",
         "value": "11",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Nuts_n_bolts_icon.png"
       },
       {
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "3",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -4427,19 +4427,19 @@
         "prefix": "",
         "name": "Planks",
         "value": "8",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
         "prefix": "",
         "name": "Duct Tape",
         "value": "2",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Duct_tape_icon.png"
       },
       {
         "prefix": "Peaky",
         "name": "Twine",
         "value": 2,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       }
     ],
     "AmmoType": null
@@ -5642,7 +5642,7 @@
         "prefix": "Peaky",
         "name": "Twine",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
       },
       {
         "prefix": "",
@@ -5654,7 +5654,7 @@
         "prefix": "Shadowshard",
         "name": "Crystal",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
       }
     ],
     "AmmoType": "Medium Bullets"
@@ -7601,7 +7601,7 @@
         "prefix": "Sleek",
         "name": "Mechanical Parts",
         "value": "30",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
       },
       {
         "prefix": "",
@@ -7613,7 +7613,7 @@
         "prefix": "Obsidian",
         "name": "Ore",
         "value": 11,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
       }
     ],
     "AmmoType": null
@@ -7663,7 +7663,7 @@
         "prefix": "Rough",
         "name": "Ore",
         "value": "25",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Rough_ore_icon.png"
       },
       {
         "prefix": "Fine-grain",
