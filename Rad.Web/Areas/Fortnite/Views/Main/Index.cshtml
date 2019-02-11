@@ -68,6 +68,8 @@
         schema: {
             model: { fields: schemSchematicDto }
         },
+        /*group: { field: "level", dir: "desc" },*/
+        sort: { field: "level", dir: "desc" },
         requestStart: function (e) { },
         requestEnd: function (e) { },
         change: function (e) { /*console.log("change: ", e);*/ },
@@ -79,11 +81,11 @@
             columns: [
                 { field: "name", title: "Name", width: 80 },
                 { field: "level", title: "Level", width: 50 },
-                { field: "stars", title: "Rating", width: 90, template: "#= StarLabel(data.stars) #" },
+                { field: "stars", title: "Rating", width: 70, template: "#= StarLabel(data.stars) #" },
                 { field: "SchematicType", title: "Type", width: 70, filterable: { ui: typeFilter }, template: kendo.template($("#tmplType").html()) },
                 { field: "AmmoType", title: "Ammo", width: 50, template: kendo.template($("#tmplAmmo").html()) },
                 { field: "imgurl", title: " ", width: 90, template: fn_ImgTemplate, filterable: false },
-                { field: "DamageType", title: "DamageType", width: 80, hidden: true }
+                { field: "DamageType", title: "DamageType", hidden: true }
             ],
             filterable: {
                 extra: false,

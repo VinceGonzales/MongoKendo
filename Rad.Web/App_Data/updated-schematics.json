@@ -75,28 +75,28 @@
     "description": "Schematic:sid_assault_medieval_smg_sr_ore_t03",
     "stat": [
       {
-        "name": " Fire Rate",
-        "value": "21%",
-        "level": "uncommon"
+        "name": "Crit Damage",
+        "value": "90%",
+        "level": "rare"
       },
       {
-        "name": " Weapon Stability",
-        "value": "30%",
-        "level": "uncommon"
+        "name": "Magazine Size",
+        "value": "50%",
+        "level": "rare"
       },
       {
-        "name": "DamageElement: Nature",
-        "value": "5%",
-        "level": "uncommon"
+        "name": "DamageElement: Water",
+        "value": "10%",
+        "level": "rare"
       },
       {
-        "name": " Headshot Damage",
+        "name": "Critical Rating",
+        "value": "+20",
+        "level": "epic"
+      },
+      {
+        "name": "Damage",
         "value": "20%",
-        "level": "uncommon"
-      },
-      {
-        "name": " Headshot Damage",
-        "value": "27%",
         "level": "rare"
       },
       {
@@ -206,8 +206,8 @@
   {
     "imgurl": "/content/images/T-Icon-Weapons-SK-45-Silenced-L.png",
     "name": "Whisper .45",
-    "level": 40,
-    "stars": 4,
+    "level": 50,
+    "stars": 5,
     "description": "Schematic:sid_pistol_silenced_military_sr_ore_t04",
     "stat": [
       {
@@ -274,8 +274,8 @@
   {
     "imgurl": "/content/images/T-Icon-Weapons-SK-Neon-Glow-Pistol-L.png",
     "name": "Krypton Pistol",
-    "level": 40,
-    "stars": 4,
+    "level": 50,
+    "stars": 5,
     "description": "Schematic:sid_pistol_neonglow_sr_crystal_t04",
     "stat": [
       {
@@ -1338,8 +1338,8 @@
   {
     "imgurl": "/content/images/T-Icon-Weapons-SK-Neon-Glow-Launcher-L.png",
     "name": "Noble Launcher",
-    "level": 40,
-    "stars": 4,
+    "level": 50,
+    "stars": 5,
     "description": "Schematic:sid_explosive_launcher_neonglow_sr_ore_t04",
     "stat": [
       {
@@ -1354,8 +1354,8 @@
       },
       {
         "name": " Fire Rate",
-        "value": "21%",
-        "level": "uncommon"
+        "value": "28%",
+        "level": "rare"
       },
       {
         "name": " Damage",
@@ -2282,7 +2282,6 @@
     "AmmoType": "Energy Cells"
   },
   {
-    "imgurl": "/content/images/T-Icon-Weapons-SK-Military-M202-Launcher-L.png",
     "name": "Quad Launcher",
     "level": 30,
     "stars": 3,
@@ -2341,7 +2340,8 @@
         "imgurl": ""
       }
     ],
-    "AmmoType": "Rockets"
+    "AmmoType": "Rockets",
+    "imgurl": "/content/images/T-Icon-Weapons-SK-Military-M202-Launcher-L.png"
   },
   {
     "imgurl": "/content/images/T-Icon-Weapons-SK-MilitaryMachete-MilitaryMachete-L.png",
@@ -2468,6 +2468,7 @@
     "AmmoType": "Rockets"
   },
   {
+    "imgurl": "/content/images/T-Icon-Weapons-SK-MilitarySMG-Silenced-L.png",
     "name": "Silenced Specter",
     "level": 30,
     "stars": 3,
@@ -2526,8 +2527,7 @@
         "imgurl": ""
       }
     ],
-    "AmmoType": "Light Bullets",
-    "imgurl": "/content/images/T-Icon-Weapons-SK-MilitarySMG-Silenced-L.png"
+    "AmmoType": "Light Bullets"
   },
   {
     "imgurl": "/content/images/T-Icon-Weapons-SK-DragonGun-L.png",
@@ -3577,7 +3577,6 @@
     "AmmoType": "Rockets"
   },
   {
-    "imgurl": "/content/images/T-Icon-Weapons-SK-Shotgun-04-Heavy-L.png",
     "name": "Backbreaker",
     "level": 30,
     "stars": 3,
@@ -3636,7 +3635,8 @@
         "imgurl": ""
       }
     ],
-    "AmmoType": "Shells n Slugs"
+    "AmmoType": "Shells n Slugs",
+    "imgurl": "/content/images/T-Icon-Weapons-SK-Shotgun-04-Heavy-L.png"
   },
   {
     "imgurl": "/content/images/T-Icon-Weapons-SK-Flintlock-Launcher-L.png",
@@ -3763,6 +3763,7 @@
     "AmmoType": "Shells n Slugs"
   },
   {
+    "imgurl": "/content/images/T-Icon-Weapons-S-Wall-Launcher-Trap-L.png",
     "name": "Wall Launcher",
     "level": 40,
     "stars": 4,
@@ -3821,8 +3822,7 @@
         "imgurl": "/content/images/120px-Char-black_mineral_powder_icon.png"
       }
     ],
-    "AmmoType": null,
-    "imgurl": "/content/images/T-Icon-Weapons-S-Wall-Launcher-Trap-L.png"
+    "AmmoType": null
   },
   {
     "imgurl": "/content/images/T-Icon-Weapons-S-Ceiling-Electric-Weak-Trap-L.png",
@@ -6406,33 +6406,33 @@
   {
     "imgurl": "/content/images/T-Icon-Weapons-SK-MedievalAssault-L.png",
     "name": "Hemlock",
-    "level": 30,
-    "stars": 3,
+    "level": 20,
+    "stars": 2,
     "description": "Schematic:sid_assault_medieval_smg_sr_ore_t01",
     "stat": [
       {
-        "name": " Fire Rate",
-        "value": "21%",
+        "name": "Critical Rating",
+        "value": "+15",
         "level": "uncommon"
       },
       {
-        "name": " Weapon Stability",
-        "value": "30%",
+        "name": "Magazine Size",
+        "value": "38%",
         "level": "uncommon"
       },
       {
-        "name": "DamageElement: Nature",
-        "value": "5%",
+        "name": "DamageElement: Physical",
+        "value": "26%",
         "level": "uncommon"
       },
       {
-        "name": " Headshot Damage",
-        "value": "20%",
+        "name": "Critical Rating",
+        "value": "+15",
         "level": "uncommon"
       },
       {
-        "name": " Headshot Damage",
-        "value": "27%",
+        "name": "Crit Damage",
+        "value": "90%",
         "level": "rare"
       },
       {
@@ -7669,7 +7669,7 @@
         "prefix": "Fine-grain",
         "name": "Mineral Powder",
         "value": "36",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Fine-grain_mineral_powder_icon.png"
       },
       {
         "prefix": "",
@@ -7737,13 +7737,13 @@
         "prefix": "Simple",
         "name": "Mechanical Parts",
         "value": "12",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Simple_mechanical_parts_icon.png"
       },
       {
         "prefix": "Silver",
         "name": "Ore",
         "value": 3,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Silver_ore_icon.png"
       }
     ],
     "AmmoType": null
@@ -7799,13 +7799,13 @@
         "prefix": "Simple",
         "name": "Mechanical Parts",
         "value": "12",
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Simple_mechanical_parts_icon.png"
       },
       {
         "prefix": "Silver",
         "name": "Ore",
         "value": 3,
-        "imgurl": "/content/images/"
+        "imgurl": "/content/images/120px-Silver_ore_icon.png"
       }
     ],
     "AmmoType": "Rockets"
@@ -7999,32 +7999,32 @@
   {
     "imgurl": "/content/images/T-Icon-Weapons-SK-Post-Apocalyptic-Launcher-L.png",
     "name": "Trash Cannon",
-    "level": 1,
-    "stars": 1,
+    "level": 20,
+    "stars": 2,
     "description": "Schematic:sid_launcher_scavenger_sr_ore_t01",
     "stat": [
       {
-        "name": " Damage",
-        "value": "10%",
-        "level": "common"
+        "name": "Damage",
+        "value": "15%",
+        "level": "uncommon"
       },
       {
-        "name": " Reload Speed",
-        "value": "25%",
-        "level": "common"
+        "name": "Reload Speed",
+        "value": "38%",
+        "level": "uncommon"
       },
       {
         "name": "DamageElement: Nature",
-        "value": "5%",
-        "level": "uncommon"
+        "value": "10%",
+        "level": "rare"
       },
       {
-        "name": " Crit Damage",
-        "value": "68%",
-        "level": "uncommon"
+        "name": "Crit Damage",
+        "value": "90%",
+        "level": "rare"
       },
       {
-        "name": " Damage to afflicted targets",
+        "name": "Damage to afflicted targets",
         "value": "30%",
         "level": "rare"
       },

@@ -66,7 +66,7 @@ function fn_ImgTemplate(item) {
 function StarLabel(data) {
     var result = '';
     for (var i = 0; i < data; i++) {
-        result += "<span class='fas fa-star fa-lg'></span>";
+        result += "<span class='fas fa-star fa-sm'></span>";
     }
     return result;
 }
