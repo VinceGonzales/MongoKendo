@@ -45,10 +45,12 @@
         $("#pnlMain").kendoGrid({
             dataSource: dataSourceWeapons,
             columns: [
-                { field: "Image", title: " ", width: 200, template: fn_ImgTemplate, filterable: false },
+                { field: "Image", title: " ", template: fn_ImgTemplate, filterable: false },
                 { field: "Name", title: "Name", width: 100 },
-                { field: "Ammo", title: "Ammo", width: 80 },
-                { field: "WeaponType", title: "WeaponType" }
+                { field: "Ammo", title: "Ammo", width: 70 },
+                { field: "WeaponType", title: "WeaponType", width: 110 },
+                { field: "BodyDamage", title: "Body", width: 60 },
+                { field: "HeadshotDamage", title: "Headshot", width: 80 }
             ],
             sortable: true,
             height: 500,
