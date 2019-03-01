@@ -7,6 +7,17 @@
     <meta name="description" content="Xolartek Solutions" />
     <title>@ViewBag.Title - Xolartek Solutions</title>
     @Styles.Render("~/Content/css")
+    <style>
+        .dropdown-submenu {
+            position: relative;
+        }
+
+        .dropdown-submenu .dropdown-menu {
+            top: 0;
+            left: 100%;
+            margin-top: -1px;
+        }
+    </style>
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("header", required: false)
@@ -28,7 +39,13 @@
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Jump To <span class="caret"></span></a>
                                     <ul class="dropdown-menu">
                                         <li><a href='@Url.Action("Index", "Main", new { Area = "RDR2" })'>Red Dead Redemption 2</a></li>
-                                        <li><a href='@Url.Action("Index", "Main", new { Area = "Fortnite" })'>Fortnite</a></li>
+                                        <li class="dropdown-submenu">
+                                            <a class="submenu-level1">Fortnite <span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href='@Url.Action("Index", "Main", new { Area = "Fortnite" })'>Schematics</a></li>
+                                                <li><a href='@Url.Action("Heroes", "Main", new { Area = "Fortnite" })'>Heroes</a></li>
+                                            </ul>
+                                        </li>
                                         <li><a href='@Url.Action("Index", "Main", new { Area = "Apex" })'>Apex Legends</a></li>
                                     </ul>
                                 </li>
@@ -48,7 +65,15 @@
             <p>Copyright &copy; @DateTime.Now.Year - Xolartek Solutions</p>
         </footer>
     </div>
-
+    <script>
+        $(document).ready(function () {
+            $('.dropdown-submenu a.submenu-level1').on("click", function (e) {
+                $(this).next('ul').toggle();
+                e.stopPropagation();
+                e.preventDefault();
+            });
+        });
+    </script>
     @RenderSection("scripts", required: false)
 </body>
 </html>

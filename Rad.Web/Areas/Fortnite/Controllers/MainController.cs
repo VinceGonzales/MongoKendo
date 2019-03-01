@@ -14,6 +14,11 @@ namespace Rad.Web.Areas.Fortnite.Controllers
             return View();
         }
 
+        public ActionResult Heroes()
+        {
+            return View();
+        }
+
         [AcceptVerbs(HttpVerbs.Get)]
         public JsonResult GetSchematics()
         {
@@ -25,6 +30,20 @@ namespace Rad.Web.Areas.Fortnite.Controllers
                 viewModel = JsonConvert.DeserializeObject<List<SchematicVM>>(json);
             }
             
+            return Json(viewModel, JsonRequestBehavior.AllowGet);
+        }
+
+        [AcceptVerbs(HttpVerbs.Get)]
+        public JsonResult GetHeroes()
+        {
+            List<HeroVM> viewModel = new List<HeroVM>();
+            string filePath = Server.MapPath("~/App_Data/heroes.json");
+            using (StreamReader r = new StreamReader(filePath))
+            {
+                string json = r.ReadToEnd();
+                viewModel = JsonConvert.DeserializeObject<List<HeroVM>>(json);
+            }
+
             return Json(viewModel, JsonRequestBehavior.AllowGet);
         }
 

@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Fortnite";
+}
+@section header {
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    @Styles.Render("~/Content/css/kendoui2018")
+    @Scripts.Render("~/bundles/kendoui2018")
+    <style>
+        #pnlMain img {
+            width: 100px;
+        }
+    </style>
+}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h3>Fortnite - Heroes</h3>
+        </div>
+    </div>
+    <div id="pnlMain" class="row">
+    </div>
+</div>
+<script type="text/x-kendo-template" id="template">
+    <div class="col-md-1">
+        <img src="#= imgurl #" alt="#: description #" />
+        <div>#:name#</div><div>#= StarLabel(stars) #</div>
+    </div>
+</script>
+
+@section scripts {
+    <script src="@Url.Content("~/scripts/fortnite-heroes.js")" type="text/javascript"></script>
+    <script>
+    var apiUrl = '@Url.Action("GetHeroes", "Main", new { Area = "Fortnite" })';
+    window.dataSourceHeroes = new kendo.data.DataSource({
+        transport: {
+            read: { url: apiUrl, dataType: "json" }
+        },
+        schema: {
+            model: { fields: heroesDto }
+        },
+        /*group: { field: "level", dir: "desc" },*/
+        sort: { field: "level", dir: "desc" },
+        requestStart: function (e) { },
+        requestEnd: function (e) { },
+        change: function (e) { /*console.log("change: ", e);*/ },
+        error: function (e) { /*console.log("error: ", e);*/ }
+    });
+    $(function () {
+        $("#pnlMain").kendoListView({
+            dataSource: dataSourceHeroes,
+            template: kendo.template($("#template").html()),
+            selectable: true
+        });
+
+        window.dataSourceHeroes.read();
+    });
+    </script>
+}
