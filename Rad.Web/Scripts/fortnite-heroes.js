@@ -18,3 +18,10 @@ function StarLabel(data) {
     }
     return result;
 }
+
+function fn_FilterConstructor() {
+    dataSourceHeroes.filter([
+        { "field": "stars", "operator": "gt", "value": 2 },
+        { "field": "heroclass", "operator": "eq", "value": "Constructor" }
+    ]);
+}
