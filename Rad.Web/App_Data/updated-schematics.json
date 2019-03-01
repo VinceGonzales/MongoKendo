@@ -3422,7 +3422,7 @@
         "level": "rare"
       }
     ],
-    "SchematicType": "Explosive",
+    "SchematicType": "Trap",
     "DamageType": null,
     "Materials": [
       {
@@ -3800,7 +3800,7 @@
         "level": "rare"
       }
     ],
-    "SchematicType": "Explosive",
+    "SchematicType": "Trap",
     "DamageType": null,
     "Materials": [
       {
@@ -7724,7 +7724,7 @@
         "level": ""
       }
     ],
-    "SchematicType": "Trap",
+    "SchematicType": "Explosive",
     "DamageType": "Physical",
     "Materials": [
       {
@@ -7848,7 +7848,7 @@
         "level": ""
       }
     ],
-    "SchematicType": "Trap",
+    "SchematicType": "Explosive",
     "DamageType": "Energy",
     "Materials": [
       {
