@@ -9,6 +9,12 @@
         #pnlMain img {
             width: 100px;
         }
+        #pnlMain .txtCaption {
+            font-size: 10px;
+            text-overflow: clip;
+            white-space: nowrap;
+            overflow: hidden;
+        }
     </style>
 }
 <div class="container">
@@ -23,7 +29,7 @@
 <script type="text/x-kendo-template" id="template">
     <div class="col-md-1">
         <img src="#= imgurl #" alt="#: description #" />
-        <div>#:name#</div><div>#= StarLabel(stars) #</div>
+        <div class="txtCaption">#:name#</div><div>#= StarLabel(stars) #</div>
     </div>
 </script>
 
