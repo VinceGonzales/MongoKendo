@@ -6,7 +6,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-Myth02-SR-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "Increases damage of Kinetic Overload",
     "HeroPerk": "unknown",
     "TeamPerk": "BASE blasts Steel Wool music, increasing Damage by 12% and Critical Rating by 15 for allies within 5 tiles. Requires 2 Steel Wool heroes."
@@ -18,7 +18,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-StarsRain-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Decreases Throwing Stars cooldown by 30%.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -30,7 +30,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-089-Athena-Commando-M-RetroGrey-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "Increases assault rifle damage",
     "HeroPerk": "Increases assault rifle damage",
     "TeamPerk": "unknown"
@@ -42,7 +42,7 @@
     "Stars": 5,
     "Description": "T ninja hid ninja myth02 sr t02 l",
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-Myth02-SR-T02-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Throw all Throwing STars together in an arc. Adds 1 additional star.",
     "HeroPerk": "unknown",
     "TeamPerk": "Throwing Stars return to you dealing their damage again on the way back. Requires 2 Ninjas of Legendary or higher rarity."
@@ -54,7 +54,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-010-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -66,7 +66,7 @@
     "Stars": 5,
     "Description": "T soldier hid commando gunheadshot sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-GunHeadshot-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -78,7 +78,7 @@
     "Stars": 5,
     "Description": "T ninja hid ninja swordmaster sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-Swordmaster-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "During Shadow Stance, increases Sword Damage by 25%.",
     "HeroPerk": "unknown",
     "TeamPerk": "After ability cast, next heavy melee costs 20% less per match"
@@ -90,7 +90,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-ZonePistol-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Increases pistol damage",
     "HeroPerk": "Increases pistol damage",
     "TeamPerk": "unknown"
@@ -102,7 +102,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-010-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -114,7 +114,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-018-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "First 6 pistol shots deal increased damage and impact.",
     "HeroPerk": "unknown",
     "TeamPerk": "Kills increases Weapon Damage by 13% for 15 seconds. Each weapon type can only apply one stack of this effect. Requires one hero of each class."
@@ -126,7 +126,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-167-Athena-Commando-M-TacticalBadass-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "Increases assault rifle critical hit damage",
     "HeroPerk": "Increases assault rifle critical hit damage",
     "TeamPerk": "unknown"
@@ -138,7 +138,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-007-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Increases TEDDY Duration by 4 seconds.",
     "HeroPerk": "Increases TEDDY Duration by 12 seconds.",
     "TeamPerk": "unknown"
@@ -150,7 +150,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-BASEBig-SR-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "Increases B.A.S.E. connectivity",
     "HeroPerk": "unknown",
     "TeamPerk": "For each Constructor increase damage of traps affected by BASE by 8.5%."
@@ -162,7 +162,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "With Stay Frosty active using ability reduces cooldown of all ability by 3 seconds. Requires 5 heroes of Rare or higher rarity."
@@ -174,7 +174,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-008-SR-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -186,7 +186,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-011-M-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -198,7 +198,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-317-Athena-Commando-M-WinterGhoul-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "During Shadow Stance, deals 6 base damage per second to nearby enemies.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -210,7 +210,7 @@
     "Level": "50",
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-042-Athena-Commando-M-Cyberpunk-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "Firing a ranged weapon increases your damage and Fire Rate",
     "HeroPerk": "Firing a ranged weapon increases your damage and Fire Rate",
     "TeamPerk": "unknown"
@@ -222,7 +222,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-016-F-V1-VR-T02-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "Increases explosive weapon damage",
     "HeroPerk": "Increases explosive weapon damage",
     "TeamPerk": "unknown"
@@ -234,7 +234,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-133-Athena-Commando-F-Deco-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -246,7 +246,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-011-M-Easter-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "Increases critical hit damage of Sniper Rifles",
     "HeroPerk": "Increases critical hit damage of Sniper Rifles",
     "TeamPerk": "unknown"
@@ -258,7 +258,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-013-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Every 39 kills, gain 1 Charge Fragment.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -270,7 +270,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-013-StPatricks-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "TEDDY fires lasers every 2 seconds, dealing 26 base Energy Damage.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -282,7 +282,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-014-Wukong-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "Eliminating enemies can cause aoe explosions.",
     "HeroPerk": "unknown",
     "TeamPerk": "Mantis Leap allows 2 additional jumps. Requires 3 Ninjas."
@@ -294,7 +294,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-HammerPlasma-SR-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -306,7 +306,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-288-Athena-Commando-M-IceKing-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -318,7 +318,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-PlasmaDamage-Easter-SR-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -330,7 +330,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-115-Athena-Commando-M-CarbideBlue-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "Lefty and Righty applies an energy affliction",
     "HeroPerk": "Lefty and Righty applies an energy affliction",
     "TeamPerk": "For each match, increased healing based on how many enemies are near you"
@@ -342,7 +342,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-GunTough-R-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "Eliminating enemies restores health over time",
     "HeroPerk": "Eliminating enemies restores health over time",
     "TeamPerk": "unknown"
@@ -354,7 +354,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-241-Athena-Commando-M-Plague-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -366,7 +366,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-013-SR-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -378,7 +378,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-246-Athena-Commando-F-Grave-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "After reloading gain damage temporarily.",
     "HeroPerk": "After reloading gain damage temporarily.",
     "TeamPerk": "unknown"
@@ -390,7 +390,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-013-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Smoke Bomb now heals allies who enter the affected area",
     "HeroPerk": "Smoke Bomb now heals allies who enter the affected area",
     "TeamPerk": "unknown"
@@ -402,7 +402,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-010-F-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Melee critical hits apply 30% Snare and Affliction which deals 37% of Damage dealt each second for 3 seconds.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -414,7 +414,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-009-F-Valentine-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Dragon Slash leaves a persistent trail of energy, dealing damage to enemies in the area over time",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -426,7 +426,7 @@
     "Stars": 4,
     "Description": "T constructor hid constructor 020 sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-020-SR-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -438,7 +438,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-Sony-R-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Dealing Melee Weapon Damage grants 1 stack of Assassination (up to 5 stacks). Assassination lasts 5 seconds and increases Melee Weapon Damage by 4.5%.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -450,7 +450,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-015-F-V1-SR-T02-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Every 21 headshot kill gain a Charge Fragment.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -462,7 +462,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-SlashBreathHW-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -474,7 +474,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-ZoneHarvest-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Increases Pickaxe Damage by 17%.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -486,7 +486,7 @@
     "Stars": 4,
     "Description": "T soldier hid 163 athena commando f viking l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-163-Athena-Commando-F-Viking-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -498,7 +498,7 @@
     "Stars": 4,
     "Description": "T ninja hid ninja 015 f v1 sr t02 l",
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-015-F-V1-SR-T02-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -510,7 +510,7 @@
     "Stars": 4,
     "Description": "T soldier hid 102 athena commando m raven l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-102-Athena-Commando-M-Raven-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "Increases the damage of Lefty and Righty",
     "HeroPerk": "unknown",
     "TeamPerk": "For each hero of epic or higher rarity with at least 4 stars increase damage by 6.5% against full health enemies"
@@ -522,7 +522,7 @@
     "Stars": 4,
     "Description": "T constructor hid constructor sony r t01 l",
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-Sony-R-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -534,7 +534,7 @@
     "Stars": 4,
     "Description": "T ninja hid ninja 019 sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-019-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Increase Movement speed bonus during Night, and additionally reduce cost of Ninja abilities",
     "HeroPerk": "unknown",
     "TeamPerk": "For each hero of Epic or higher rarity with at least 4 stars kills during evening grant 0.24% damage and 0.08% melee life leech up to 40 stacks"
@@ -546,7 +546,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-ZonePistolHW-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Increases pistol critical hit damage by 75%.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -558,7 +558,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-011-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Phase Shift increases Pistol Damage by 35% for 4 seconds.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -570,7 +570,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-010-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Throwing Stars apply Energy affliction dealing 3 base Energy Damage per second for 6 seconds. Stacks to a maximum of 3.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -582,7 +582,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-188-Athena-Commando-F-StreetRacerWhite-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Increases Critical Rating of Swords, Axes, and Scythes by 15.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -594,7 +594,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-017-M-V1-SR-T02-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -606,7 +606,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-StarsRainHW-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -618,7 +618,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-177-Athena-Commando-M-StreetRacerCobra-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -630,7 +630,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-SphereFragment-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Increases TEDDY damage by 30%.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -642,7 +642,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-022-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Sniper critical hits apply water affliction.",
     "HeroPerk": "unknown",
     "TeamPerk": "Decreases duration of elemental status effects by 50%; requires 2 heroes with 4 or more stars."
@@ -654,7 +654,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-SlashTail-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -666,7 +666,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-SlashBreath-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Increases the length of Dragon Slash",
     "HeroPerk": "Increases the length of Dragon Slash",
     "TeamPerk": "unknown"
@@ -678,7 +678,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-PunchDamage-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -690,7 +690,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-009-VR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Decreases Throwing Stars Energy cost by 33%.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -702,7 +702,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-Sony-R-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -714,7 +714,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-162-Athena-Commando-F-StreetRacer-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "Increases Damage / Fire rate of Sniper Rifles",
     "HeroPerk": "Increases Damage / Fire rate of Sniper Rifles",
     "TeamPerk": "unknown"
@@ -726,7 +726,7 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-017-F-V1-SR-T02-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -738,7 +738,7 @@
     "Level": "30",
     "Stars": 3,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-GunTough-Valentine-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -750,7 +750,7 @@
     "Stars": 3,
     "Description": "T soldier hid 100 athena commando m cuchulainn l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-100-Athena-Commando-M-CuChulainn-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -762,7 +762,7 @@
     "Stars": 3,
     "Description": "T soldier hid 173 athena commando f starfishuniform l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-173-Athena-Commando-F-StarfishUniform-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Phase Shifting causes the equipped ranged weapon to shoot a projectile which pierces enemies and deals energy damage.",
     "HeroPerk": "Phase Shifting causes the equipped ranged weapon to shoot a projectile which pierces enemies and deals energy damage.",
     "TeamPerk": "Grants Phase Cannon every few seconds"
@@ -774,7 +774,7 @@
     "Stars": 3,
     "Description": "T constructor hid constructor hammertank sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-HammerTank-SR-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -786,7 +786,7 @@
     "Level": "20",
     "Stars": 2,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-GunTough-M-4thJuly-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "Hitting enemy with an Assault Rifle has a chance to give back ammo",
     "HeroPerk": "Hitting enemy with an Assault Rifle has a chance to give back ammo",
     "TeamPerk": "unknown"
@@ -798,7 +798,7 @@
     "Level": "20",
     "Stars": 2,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-343-Athena-Commando-M-CupidDark-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "Eliminations restore 6 Energy over 3 seconds. Duration refreshes with additional eliminations.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -810,7 +810,7 @@
     "Stars": 1,
     "Description": "T soldier hid 330 athena commando f icequeen l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-330-Athena-Commando-F-IceQueen-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -822,7 +822,7 @@
     "Stars": 1,
     "Description": "T soldier hid 227 athena commando f vampire l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-227-Athena-Commando-F-Vampire-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -834,7 +834,7 @@
     "Stars": 1,
     "Description": "T constructor hid constructor 016 m v1 sr t02 l",
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-016-M-V1-SR-T02-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -846,7 +846,7 @@
     "Stars": 1,
     "Description": "T soldier hid commando 013 sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-013-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -858,7 +858,7 @@
     "Stars": 1,
     "Description": "T soldier hid 126 athena commando m auroraglow l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-126-Athena-Commando-M-AuroraGlow-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -870,7 +870,7 @@
     "Level": "1",
     "Stars": 1,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-RushBASE-SR-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -882,7 +882,7 @@
     "Level": "1",
     "Stars": 1,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-254-Athena-Commando-M-Zombie-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -894,7 +894,7 @@
     "Level": "1",
     "Stars": 1,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-015-SR-T02-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "B.A.S.E. Explodes out after a certain amount of enemies die near it",
     "HeroPerk": "B.A.S.E. Explodes out after a certain amount of enemies die near it",
     "TeamPerk": "unknown"
@@ -906,7 +906,7 @@
     "Stars": 1,
     "Description": "T soldier hid commando 010 bday sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-010-Bday-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -918,7 +918,7 @@
     "Stars": 1,
     "Description": "T soldier hid 131 athena commando m warpaint l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-131-Athena-Commando-M-WarPaint-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -930,7 +930,7 @@
     "Stars": 1,
     "Description": "T ninja hid ninja 016 f v1 sr t02 l",
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-016-F-V1-SR-T02-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -942,7 +942,7 @@
     "Level": "1",
     "Stars": 1,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-105-Athena-Commando-F-SpaceBlackFemale-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -954,7 +954,7 @@
     "Level": "1",
     "Stars": 1,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-200-Athena-Commando-M-DarkPaintballer-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "Kunai explode on hitting, dealing energy damage in a radius",
     "HeroPerk": "Kunai explode on hitting, dealing energy damage in a radius",
     "TeamPerk": "Increases shadow stance duration per matching hero"
@@ -966,7 +966,7 @@
     "Level": "1",
     "Stars": 1,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-182-Athena-Commando-M-ModernMilitary-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -978,7 +978,7 @@
     "Level": "1",
     "Stars": 1,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-017-M-V1-SR-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -990,7 +990,7 @@
     "Stars": 1,
     "Description": "T outlander hid outlander zoneharvesthw sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-ZoneHarvestHW-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Increases Anti-Material Charge damage to enemies by 75%.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1002,7 +1002,7 @@
     "Level": "1",
     "Stars": 1,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-Myth02-SR-T05-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "Seismic Smash returns to its original impact point.",
     "HeroPerk": "unknown",
     "TeamPerk": "Freeze melee attackers for 2 seconds; mist monsters are slowed by 43%; requires 3 heroes with 3 or more stars"
@@ -1014,7 +1014,7 @@
     "Level": "1",
     "Stars": 1,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-224-Athena-Commando-F-Dieselpunk-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1026,7 +1026,7 @@
     "Level": "1",
     "Stars": 1,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-190-Athena-Commando-M-StreetRacerWhite-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1038,7 +1038,7 @@
     "Stars": 1,
     "Description": "T soldier hid commando 014 m sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-014-M-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1050,7 +1050,7 @@
     "Stars": 1,
     "Description": "T soldier hid 279 athena commando m tacticalsanta l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-279-Athena-Commando-M-TacticalSanta-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1062,7 +1062,7 @@
     "Stars": 1,
     "Description": "T outlander hid outlander 016 f v1 sr t02 l",
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-016-F-V1-SR-T02-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1074,7 +1074,7 @@
     "Stars": 1,
     "Description": "T soldier hid 222 athena commando f darkviking l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-222-Athena-Commando-F-DarkViking-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1086,7 +1086,7 @@
     "Stars": 1,
     "Description": "T soldier hid commando gunheadshothw sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-GunHeadshotHW-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1098,7 +1098,7 @@
     "Stars": 1,
     "Description": "T soldier hid commando 016 m v1 sr t02 l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-016-M-V1-SR-T02-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1110,7 +1110,7 @@
     "Stars": 1,
     "Description": "T outlander hid outlander 007 rs01 sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-007-RS01-SR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1122,7 +1122,7 @@
     "Stars": 1,
     "Description": "T ninja hid ninja 023 sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-023-SR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "After using Kunai Storm gain slow fall temporarily, dealing more damage mid-air",
     "HeroPerk": "unknown",
     "TeamPerk": "For each hero with 3 or more stars recover shield equal to 0.25% of Energy lost"
@@ -1134,7 +1134,7 @@
     "Stars": 1,
     "Description": "T soldier hid 164 athena commando m viking l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-164-Athena-Commando-M-Viking-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1146,7 +1146,7 @@
     "Stars": 1,
     "Description": "T soldier hid commando 011 sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-011-SR-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1158,7 +1158,7 @@
     "Stars": 1,
     "Description": "T soldier hid 050 athena commando m holidaynutcracker l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-050-Athena-Commando-M-HolidayNutcracker-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1170,7 +1170,7 @@
     "Stars": 1,
     "Description": "T soldier hid 143 athena commando f darkninja l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-143-Athena-Commando-F-DarkNinja-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1182,7 +1182,7 @@
     "Stars": 1,
     "Description": "T soldier hid 085 athena commando m twitch l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-085-Athena-Commando-M-Twitch-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1194,7 +1194,7 @@
     "Stars": 1,
     "Description": "T constructor hid constructor rushbase f vr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-RushBASE-F-VR-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1206,7 +1206,7 @@
     "Stars": 1,
     "Description": "T ninja hid ninja 011 vr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-011-VR-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1218,7 +1218,7 @@
     "Stars": 1,
     "Description": "T outlander hid outlander punchphase vr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-PunchPhase-VR-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1230,7 +1230,7 @@
     "Stars": 1,
     "Description": "T soldier hid commando 007 r t01 l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-007-R-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1242,7 +1242,7 @@
     "Stars": 1,
     "Description": "T soldier hid commando shockdamage r t01 l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-ShockDamage-R-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1254,7 +1254,7 @@
     "Stars": 1,
     "Description": "T ninja hid ninja 007 r t01 l",
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-007-R-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1266,7 +1266,7 @@
     "Stars": 1,
     "Description": "T outlander hid outlander 009 r t01 l",
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-009-R-T01-L.png",
-    "Class": "Outlander",
+    "HeroClass": "Outlander",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1278,7 +1278,7 @@
     "Stars": 1,
     "Description": "T ninja hid ninja 011 r t01 l",
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-011-R-T01-L.png",
-    "Class": "Ninja",
+    "HeroClass": "Ninja",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1290,7 +1290,7 @@
     "Stars": 1,
     "Description": "T constructor hid constructor 007 r t01 l",
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-007-R-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1302,7 +1302,7 @@
     "Stars": 1,
     "Description": "T constructor hid constructor basehyper r t01 l",
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-BaseHyper-R-T01-L.png",
-    "Class": "Constructor",
+    "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
@@ -1314,7 +1314,7 @@
     "Stars": 1,
     "Description": "T soldier hid commando 009 r t01 l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-009-R-T01-L.png",
-    "Class": "Soldier",
+    "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
