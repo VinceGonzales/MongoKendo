@@ -25,3 +25,7 @@ function fn_FilterConstructor() {
         { "field": "heroclass", "operator": "eq", "value": "Constructor" }
     ]);
 }
+
+function fn_SortByName() {
+    dataSourceHeroes.sort([{ "field": "name", "dir": "asc" }]);
+}

@@ -7,8 +7,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-Myth02-SR-T01-L.png",
     "HeroClass": "Constructor",
-    "CommanderUpgrade": "Increases damage of Kinetic Overload",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Increases Kinetic Overload Dmage by 50%.",
+    "HeroPerk": "Increases Kinetic Overload Dmage by 150%.",
     "TeamPerk": "BASE blasts Steel Wool music, increasing Damage by 12% and Critical Rating by 15 for allies within 5 tiles. Requires 2 Steel Wool heroes."
   },
   {
@@ -19,8 +19,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-StarsRain-SR-T01-L.png",
     "HeroClass": "Ninja",
-    "CommanderUpgrade": "Decreases Throwing Stars cooldown by 30%.",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Adds 1 extra stars to Throwing Stars.",
+    "HeroPerk": "Adds 3 extra stars to Throwing Stars.",
     "TeamPerk": "unknown"
   },
   {
@@ -31,8 +31,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-089-Athena-Commando-M-RetroGrey-L.png",
     "HeroClass": "Soldier",
-    "CommanderUpgrade": "Increases assault rifle damage",
-    "HeroPerk": "Increases assault rifle damage",
+    "CommanderUpgrade": "Increases Assault Damage by 17%.",
+    "HeroPerk": "Increases Assault Damage by 50%.",
     "TeamPerk": "unknown"
   },
   {
@@ -43,8 +43,8 @@
     "Description": "T ninja hid ninja myth02 sr t02 l",
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-Myth02-SR-T02-L.png",
     "HeroClass": "Ninja",
-    "CommanderUpgrade": "Throw all Throwing STars together in an arc. Adds 1 additional star.",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Throw all Throwing Stars together in an arc. Adds 1 additional star.",
+    "HeroPerk": "Throw all Throwing Stars together in an arc. Adds 3 additional stars.",
     "TeamPerk": "Throwing Stars return to you dealing their damage again on the way back. Requires 2 Ninjas of Legendary or higher rarity."
   },
   {
@@ -55,8 +55,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-010-SR-T01-L.png",
     "HeroClass": "Outlander",
-    "CommanderUpgrade": "unknown",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Increases Shock Tower impact by 67%.",
+    "HeroPerk": "Increases Shock Tower impact by 200%.",
     "TeamPerk": "unknown"
   },
   {
@@ -67,8 +67,8 @@
     "Description": "T soldier hid commando gunheadshot sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-GunHeadshot-SR-T01-L.png",
     "HeroClass": "Soldier",
-    "CommanderUpgrade": "unknown",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Each headshot increases Headshot Damage by 4% for 2 seconds, up to a maximum of 5 stacks.",
+    "HeroPerk": "Each headshot increases Headshot Damage by 4% and Fire Rate by 9% for 2 seconds, up to a maximum of 5 stacks.",
     "TeamPerk": "unknown"
   },
   {
@@ -80,7 +80,7 @@
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-Swordmaster-SR-T01-L.png",
     "HeroClass": "Ninja",
     "CommanderUpgrade": "During Shadow Stance, increases Sword Damage by 25%.",
-    "HeroPerk": "unknown",
+    "HeroPerk": "During Shadow Stance, increases Sword Damage by 75%.",
     "TeamPerk": "After ability cast, next heavy melee costs 20% less per match"
   },
   {
@@ -91,8 +91,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-ZonePistol-SR-T01-L.png",
     "HeroClass": "Outlander",
-    "CommanderUpgrade": "Increases pistol damage",
-    "HeroPerk": "Increases pistol damage",
+    "CommanderUpgrade": "Increases Pistol Damage by 17%.",
+    "HeroPerk": "Increases Pistol Damage by 50%.",
     "TeamPerk": "unknown"
   },
   {
@@ -103,8 +103,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-010-SR-T01-L.png",
     "HeroClass": "Soldier",
-    "CommanderUpgrade": "unknown",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Increases Goin' Commando Duration by 5 seconds.",
+    "HeroPerk": "Increases Goin' Commando Duration by 20 seconds.",
     "TeamPerk": "unknown"
   },
   {
@@ -115,8 +115,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-018-SR-T01-L.png",
     "HeroClass": "Soldier",
-    "CommanderUpgrade": "First 6 pistol shots deal increased damage and impact.",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Increases Pistol Damage by 20% and Impact by 25% for the first 6 shots in magazine.",
+    "HeroPerk": "Increases Pistol Damage by 40% and Impact by 50% for the first 6 shots in magazine.",
     "TeamPerk": "Kills increases Weapon Damage by 13% for 15 seconds. Each weapon type can only apply one stack of this effect. Requires one hero of each class."
   },
   {
@@ -127,8 +127,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-167-Athena-Commando-M-TacticalBadass-L.png",
     "HeroClass": "Soldier",
-    "CommanderUpgrade": "Increases assault rifle critical hit damage",
-    "HeroPerk": "Increases assault rifle critical hit damage",
+    "CommanderUpgrade": "Increases Assault Critical Damage by 75%.",
+    "HeroPerk": "Increases Assault Critical Damage by 225%.",
     "TeamPerk": "unknown"
   },
   {
@@ -151,8 +151,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-BASEBig-SR-T01-L.png",
     "HeroClass": "Constructor",
-    "CommanderUpgrade": "Increases B.A.S.E. connectivity",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Increases BASE connectivity range by 1.",
+    "HeroPerk": "Increases BASE connectivity range by 3.",
     "TeamPerk": "For each Constructor increase damage of traps affected by BASE by 8.5%."
   },
   {
@@ -163,7 +163,7 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png",
     "HeroClass": "Soldier",
-    "CommanderUpgrade": "unknown",
+    "CommanderUpgrade": "Increases Frag Grenade Radius by 50%.",
     "HeroPerk": "unknown",
     "TeamPerk": "With Stay Frosty active using ability reduces cooldown of all ability by 3 seconds. Requires 5 heroes of Rare or higher rarity."
   },
@@ -175,8 +175,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-008-SR-T01-L.png",
     "HeroClass": "Constructor",
-    "CommanderUpgrade": "unknown",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Structures affected by BASE are healed for 4% of Max Health every 10 seconds.",
+    "HeroPerk": "Structures affected by BASE are healed for 11% of Max Health every 10 seconds.",
     "TeamPerk": "unknown"
   },
   {
@@ -187,8 +187,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-011-M-SR-T01-L.png",
     "HeroClass": "Soldier",
-    "CommanderUpgrade": "unknown",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Increases Shotgun Critical Damage by 75%.",
+    "HeroPerk": "Increases Shotgun Critical Damage by 225%.",
     "TeamPerk": "unknown"
   },
   {
@@ -770,8 +770,8 @@
   {
     "Rarity": "legendary",
     "Name": "Tank Penny",
-    "Level": "30",
-    "Stars": 3,
+    "Level": "40",
+    "Stars": 4,
     "Description": "T constructor hid constructor hammertank sr t01 l",
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-HammerTank-SR-T01-L.png",
     "HeroClass": "Constructor",
@@ -795,8 +795,8 @@
     "Name": "Fallen Love Ranger Jonesy",
     "Description": "T soldier hid 343 athena commando m cupiddark l",
     "Rarity": "legendary",
-    "Level": "20",
-    "Stars": 2,
+    "Level": "30",
+    "Stars": 3,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-343-Athena-Commando-M-CupidDark-L.png",
     "HeroClass": "Soldier",
     "CommanderUpgrade": "Eliminations restore 6 Energy over 3 seconds. Duration refreshes with additional eliminations.",
@@ -1153,6 +1153,18 @@
   },
   {
     "Rarity": "legendary",
+    "Name": "Highland Warrior Wildcat",
+    "Level": "1",
+    "Stars": 1,
+    "Description": "T soldier hid 099 athena commando f scathach l",
+    "ImgUrl": "/content/images/T-Soldier-HID-099-Athena-Commando-F-Scathach-L.png",
+    "HeroClass": "Soldier",
+    "CommanderUpgrade": "unknown",
+    "HeroPerk": "unknown",
+    "TeamPerk": "unknown"
+  },
+  {
+    "Rarity": "legendary",
     "Name": "Crackshot",
     "Level": "1",
     "Stars": 1,
@@ -1200,7 +1212,7 @@
     "TeamPerk": "unknown"
   },
   {
-    "Rarity": "epic",
+    "Rarity": "legendary",
     "Name": "Energy Thief Mari",
     "Level": "1",
     "Stars": 1,
