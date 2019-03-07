@@ -29,3 +29,23 @@ function fn_FilterConstructor() {
 function fn_SortByName() {
     dataSourceHeroes.sort([{ "field": "name", "dir": "asc" }]);
 }
+
+function StarColor(data) {
+    var result = '';
+    switch (data) {
+        case "epic":
+            result = "star-epic";
+            break;
+        case "legendary":
+            result = "star-legendary";
+            break;
+        case "mythic":
+            result = "star-mythic";
+            break;
+        case "rare":
+            result = "star-rare";
+            break;
+        default:
+    }
+    return result;
+}

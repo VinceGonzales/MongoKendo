@@ -211,8 +211,8 @@
     "Stars": 5,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-042-Athena-Commando-M-Cyberpunk-L.png",
     "HeroClass": "Soldier",
-    "CommanderUpgrade": "Firing a ranged weapon increases your damage and Fire Rate",
-    "HeroPerk": "Firing a ranged weapon increases your damage and Fire Rate",
+    "CommanderUpgrade": "Every shot increases Ranged Weapon Damage by 1%, up to a maximum of 25 stacks. Switching weapons or reloading removes buff.",
+    "HeroPerk": "Every shot increases Ranged Weapon Damage by 2% and Fire Rate by 1.2%, up to a maximum of 25 stacks. Switching weapons or reloading removes buff.",
     "TeamPerk": "unknown"
   },
   {
@@ -223,8 +223,8 @@
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-016-F-V1-VR-T02-L.png",
     "HeroClass": "Constructor",
-    "CommanderUpgrade": "Increases explosive weapon damage",
-    "HeroPerk": "Increases explosive weapon damage",
+    "CommanderUpgrade": "Increases Launcher Damage 17%.",
+    "HeroPerk": "Increases Launcher Damage 50%.",
     "TeamPerk": "unknown"
   },
   {
@@ -235,8 +235,8 @@
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-133-Athena-Commando-F-Deco-L.png",
     "HeroClass": "Outlander",
-    "CommanderUpgrade": "unknown",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Increases TEDDY Range by 2 tiles. Enemies take more damage from TEDDY based on distance up to 40% at max range.",
+    "HeroPerk": "Increases TEDDY Range by 4 tiles. Enemies take more damage from TEDDY based on distance up to 110% at max range.",
     "TeamPerk": "unknown"
   },
   {
@@ -247,8 +247,8 @@
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-Commando-011-M-Easter-SR-T01-L.png",
     "HeroClass": "Soldier",
-    "CommanderUpgrade": "Increases critical hit damage of Sniper Rifles",
-    "HeroPerk": "Increases critical hit damage of Sniper Rifles",
+    "CommanderUpgrade": "Increases Sniper Critical Damage by 75%.",
+    "HeroPerk": "Increases Sniper Critical Damage by 225%.",
     "TeamPerk": "unknown"
   },
   {
@@ -260,7 +260,7 @@
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-013-SR-T01-L.png",
     "HeroClass": "Outlander",
     "CommanderUpgrade": "Every 39 kills, gain 1 Charge Fragment.",
-    "HeroPerk": "unknown",
+    "HeroPerk": "Every 13 eliminations, gain 1 Charge Fragment.",
     "TeamPerk": "unknown"
   },
   {
@@ -272,7 +272,7 @@
     "ImgUrl": "/content/images/fortnite/T-Outlander-HID-Outlander-013-StPatricks-SR-T01-L.png",
     "HeroClass": "Outlander",
     "CommanderUpgrade": "TEDDY fires lasers every 2 seconds, dealing 26 base Energy Damage.",
-    "HeroPerk": "unknown",
+    "HeroPerk": "TEDDY fires lasers every 1.5 second, dealing 51 base Energy Damage.",
     "TeamPerk": "unknown"
   },
   {
@@ -306,18 +306,6 @@
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-288-Athena-Commando-M-IceKing-L.png",
-    "HeroClass": "Constructor",
-    "CommanderUpgrade": "unknown",
-    "HeroPerk": "unknown",
-    "TeamPerk": "unknown"
-  },
-  {
-    "Name": "Miss Bunny Penny",
-    "Description": "T constructor hid constructor plasmadamage easter sr t01 l",
-    "Rarity": "legendary",
-    "Level": "40",
-    "Stars": 4,
-    "ImgUrl": "/content/images/fortnite/T-Constructor-HID-Constructor-PlasmaDamage-Easter-SR-T01-L.png",
     "HeroClass": "Constructor",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
@@ -686,7 +674,7 @@
   {
     "Name": "Skirmisher Edge",
     "Description": "T ninja hid ninja 009 vr t01 l",
-    "Rarity": "epic",
+    "Rarity": "legendary",
     "Level": "40",
     "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Ninja-HID-Ninja-009-VR-T01-L.png",
@@ -795,8 +783,8 @@
     "Name": "Fallen Love Ranger Jonesy",
     "Description": "T soldier hid 343 athena commando m cupiddark l",
     "Rarity": "legendary",
-    "Level": "30",
-    "Stars": 3,
+    "Level": "40",
+    "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-343-Athena-Commando-M-CupidDark-L.png",
     "HeroClass": "Soldier",
     "CommanderUpgrade": "Eliminations restore 6 Energy over 3 seconds. Duration refreshes with additional eliminations.",
@@ -879,12 +867,12 @@
     "Name": "Brainiac Jonesy",
     "Description": "T soldier hid 254 athena commando m zombie l",
     "Rarity": "legendary",
-    "Level": "1",
-    "Stars": 1,
+    "Level": "40",
+    "Stars": 4,
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-254-Athena-Commando-M-Zombie-L.png",
     "HeroClass": "Soldier",
-    "CommanderUpgrade": "unknown",
-    "HeroPerk": "unknown",
+    "CommanderUpgrade": "Increases War Cry Duration by 3 seconds.",
+    "HeroPerk": "Increases War Cry Duration by 9 seconds.",
     "TeamPerk": "unknown"
   },
   {
@@ -1157,7 +1145,7 @@
     "Level": "1",
     "Stars": 1,
     "Description": "T soldier hid 099 athena commando f scathach l",
-    "ImgUrl": "/content/images/T-Soldier-HID-099-Athena-Commando-F-Scathach-L.png",
+    "ImgUrl": "/content/images/fortnite/T-Soldier-HID-099-Athena-Commando-F-Scathach-L.png",
     "HeroClass": "Soldier",
     "CommanderUpgrade": "unknown",
     "HeroPerk": "unknown",
@@ -1188,14 +1176,14 @@
     "TeamPerk": "unknown"
   },
   {
-    "Rarity": "epic",
+    "Rarity": "legendary",
     "Name": "Sub Commando Jonesy",
     "Level": "1",
     "Stars": 1,
     "Description": "T soldier hid 085 athena commando m twitch l",
     "ImgUrl": "/content/images/fortnite/T-Soldier-HID-085-Athena-Commando-M-Twitch-L.png",
     "HeroClass": "Soldier",
-    "CommanderUpgrade": "unknown",
+    "CommanderUpgrade": "Decreases Goin' Commando Cooldown by 30%.",
     "HeroPerk": "unknown",
     "TeamPerk": "unknown"
   },

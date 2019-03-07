@@ -15,6 +15,18 @@
             white-space: nowrap;
             overflow: hidden;
         }
+        .star-mythic {
+            color: rgba(229,199,93,.4);
+        }
+        .star-legendary {
+            color: rgba(251,140,0,.5);
+        }
+        .star-epic {
+            color: rgba(153,0,153,.2);
+        }
+        .star-rare {
+            color: rgba(3,169,244,.2);
+        }
     </style>
 }
 <div class="container">
@@ -29,7 +41,7 @@
 <script type="text/x-kendo-template" id="template">
     <div class="col-md-1">
         <img src="#= imgurl #" alt="#: description #" />
-        <div class="txtCaption">#:name#</div><div>#= StarLabel(stars) #</div>
+        <div class="txtCaption">#:name#</div><div class="#= StarColor(rarity) #">#= StarLabel(stars) #</div>
     </div>
 </script>
 
