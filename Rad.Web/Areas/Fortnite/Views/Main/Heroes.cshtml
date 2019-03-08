@@ -40,7 +40,7 @@
 </div>
 <script type="text/x-kendo-template" id="template">
     <div class="col-md-1">
-        <img src="#= imgurl #" alt="#: description #" />
+        <img src="#= imgurl #" alt="#: description #" data-toggle="tooltip" title="#:commanderupgrade#" />
         <div class="txtCaption">#:name#</div><div class="#= StarColor(rarity) #">#= StarLabel(stars) #</div>
     </div>
 </script>
@@ -71,6 +71,8 @@
         });
 
         window.dataSourceHeroes.read();
+
+        setTimeout(function () { $('[data-toggle="tooltip"]').tooltip(); }, 2000);
     });
     </script>
 }

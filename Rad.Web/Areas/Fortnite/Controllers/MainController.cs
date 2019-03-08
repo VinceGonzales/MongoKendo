@@ -30,7 +30,7 @@ namespace Rad.Web.Areas.Fortnite.Controllers
                 viewModel = JsonConvert.DeserializeObject<List<SchematicVM>>(json);
             }
             
-            return Json(viewModel, JsonRequestBehavior.AllowGet);
+            return Json(viewModel.OrderBy(s => s.name), JsonRequestBehavior.AllowGet);
         }
 
         [AcceptVerbs(HttpVerbs.Get)]
