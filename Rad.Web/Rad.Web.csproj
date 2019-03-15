@@ -139,6 +139,8 @@
     <Content Include="Content\images\120px-Shadowshard_crystal_icon.png" />
     <Content Include="Content\images\120px-Silver_ore_icon.png" />
     <Content Include="Content\images\120px-Simple_mechanical_parts_icon.png" />
+    <Content Include="Content\images\120px-Simple_mineral_powder_icon.png" />
+    <Content Include="Content\images\120px-Simple_twine_icon.png" />
     <Content Include="Content\images\120px-Sleek_mechanical_parts_icon.png" />
     <Content Include="Content\images\120px-Snowball_launcher_icon.png" />
     <Content Include="Content\images\120px-Sturdy_mechanical_parts_icon.png" />

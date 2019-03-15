@@ -633,12 +633,12 @@
     "description": "Schematic:sid_assault_flintlock_sr_ore_t04",
     "stat": [
       {
-        "name": "Critical Rating",
-        "value": "+20",
-        "level": "rare"
+        "name": "Crit Damage",
+        "value": "135%",
+        "level": "legendary"
       },
       {
-        "name": " Reload Speed",
+        "name": "Reload Speed",
         "value": "50%",
         "level": "rare"
       },
@@ -648,13 +648,13 @@
         "level": "rare"
       },
       {
-        "name": " Damage",
+        "name": "Damage",
         "value": "20%",
         "level": "rare"
       },
       {
-        "name": " Damage",
-        "value": "20%",
+        "name": "Crit Damage",
+        "value": "90%",
         "level": "rare"
       },
       {
@@ -804,22 +804,22 @@
     "AmmoType": null,
     "Materials": [
       {
-        "name": "Blast Powder",
-        "value": "15",
+        "name": "Planks",
+        "value": "9",
         "prefix": "",
-        "imgurl": "/content/images/120px-Blast_powder_icon.png"
+        "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
-        "name": "Active Powercell",
-        "value": "1",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Active_powercell_icon.png"
+        "name": "Mechanical Parts",
+        "value": "2",
+        "prefix": "Simple",
+        "imgurl": "/content/images/120px-Simple_mechanical_parts_icon.png"
       },
       {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
+        "name": "Twine",
+        "value": "3",
+        "prefix": "Simple",
+        "imgurl": "/content/images/120px-Simple_twine_icon.png"
       }
     ]
   },
@@ -934,84 +934,28 @@
     "AmmoType": null,
     "Materials": [
       {
-        "name": "Blast Powder",
-        "value": "15",
+        "name": "Nuts n Bolts",
+        "value": "10",
         "prefix": "",
-        "imgurl": "/content/images/120px-Blast_powder_icon.png"
+        "imgurl": "/content/images/120px-Nuts_n_bolts_icon.png"
       },
       {
-        "name": "Active Powercell",
-        "value": "1",
+        "name": "Ore",
+        "value": "3",
+        "prefix": "Rough",
+        "imgurl": "/content/images/120px-Rough_ore_icon.png"
+      },
+      {
+        "name": "Batteries",
+        "value": "2",
         "prefix": "",
-        "imgurl": "/content/images/120px-Active_powercell_icon.png"
+        "imgurl": "/content/images/120px-Batteries_icon.png"
       },
       {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
-      }
-    ]
-  },
-  {
-    "imgurl": "/content/images/T-Icon-Weapons-electric-ceiling-Trap.png",
-    "name": "Ceiling Electric Field",
-    "level": 1,
-    "stars": 1,
-    "description": "Schematic:sid_ceiling_electric_aoe_r_t01",
-    "stat": [
-      {
-        "name": "Element: Nature",
-        "value": "",
-        "level": "common"
-      },
-      {
-        "name": " Durability",
-        "value": "14%",
-        "level": "common"
-      },
-      {
-        "name": " Reload Speed",
-        "value": "21%",
-        "level": "uncommon"
-      },
-      {
-        "name": " Damage",
-        "value": "20%",
-        "level": "rare"
-      },
-      {
-        "name": " Reload Speed",
-        "value": "28%",
-        "level": "rare"
-      },
-      {
-        "name": " Durability",
-        "value": "28%",
-        "level": "rare"
-      }
-    ],
-    "SchematicType": "Trap",
-    "DamageType": null,
-    "AmmoType": null,
-    "Materials": [
-      {
-        "name": "Blast Powder",
-        "value": "15",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Blast_powder_icon.png"
-      },
-      {
-        "name": "Active Powercell",
-        "value": "1",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Active_powercell_icon.png"
-      },
-      {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
+        "name": "Mineral Powder",
+        "value": "2",
+        "prefix": "Simple",
+        "imgurl": "/content/images/120px-Simple_mineral_powder_icon.png"
       }
     ]
   },
@@ -1188,22 +1132,22 @@
     "AmmoType": null,
     "Materials": [
       {
-        "name": "Blast Powder",
-        "value": "15",
+        "name": "Nuts n Bolts",
+        "value": "13",
         "prefix": "",
-        "imgurl": "/content/images/120px-Blast_powder_icon.png"
+        "imgurl": "/content/images/120px-Nuts_n_bolts_icon.png"
       },
       {
-        "name": "Active Powercell",
-        "value": "1",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Active_powercell_icon.png"
+        "name": "Mechanical Parts",
+        "value": "3",
+        "prefix": "Simple",
+        "imgurl": "/content/images/120px-Simple_mechanical_parts_icon.png"
       },
       {
-        "name": "",
-        "value": "",
+        "name": "Batteries",
+        "value": 1,
         "prefix": "",
-        "imgurl": ""
+        "imgurl": "/content/images/120px-Batteries_icon.png"
       }
     ]
   },
@@ -2452,22 +2396,22 @@
     "AmmoType": null,
     "Materials": [
       {
-        "name": "Blast Powder",
-        "value": "15",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Blast_powder_icon.png"
+        "name": "Ore",
+        "value": "9",
+        "prefix": "Rough",
+        "imgurl": "/content/images/120px-Rough_ore_icon.png"
       },
       {
-        "name": "Active Powercell",
-        "value": "1",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Active_powercell_icon.png"
+        "name": "Crystal",
+        "value": "2",
+        "prefix": "Quartz",
+        "imgurl": "/content/images/120px-Quartz_crystal_icon.png"
       },
       {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
+        "name": "Mineral Powder",
+        "value": 2,
+        "prefix": "Simple",
+        "imgurl": "/content/images/120px-Simple_mineral_powder_icon.png"
       }
     ]
   },
@@ -2514,22 +2458,22 @@
     "AmmoType": null,
     "Materials": [
       {
-        "name": "Blast Powder",
-        "value": "15",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Blast_powder_icon.png"
+        "name": "Ore",
+        "value": "9",
+        "prefix": "Rough",
+        "imgurl": "/content/images/120px-Rough_ore_icon.png"
       },
       {
-        "name": "Active Powercell",
-        "value": "1",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Active_powercell_icon.png"
+        "name": "Crystal",
+        "value": "2",
+        "prefix": "Quartz",
+        "imgurl": "/content/images/120px-Quartz_crystal_icon.png"
       },
       {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
+        "name": "Mineral Powder",
+        "value": "2",
+        "prefix": "Simple",
+        "imgurl": "/content/images/120px-Simple_mineral_powder_icon.png"
       }
     ]
   },
@@ -4099,10 +4043,10 @@
         "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
-        "name": "Mineral Powder",
+        "name": "Oxidized Powder",
         "value": "36",
         "prefix": "Char-black",
-        "imgurl": "/content/images/120px-Char-black_mineral_powder_icon.png"
+        "imgurl": "/content/images/120px-Oxidized_mineral_powder_icon.png"
       },
       {
         "name": "Active Powercell",
@@ -4113,8 +4057,8 @@
       {
         "name": "Crystal",
         "value": "11",
-        "prefix": "Shadowshard",
-        "imgurl": "/content/images/120px-Shadowshard_crystal_icon.png"
+        "prefix": "Sunbeam",
+        "imgurl": "/content/images/120px-Sunbeam_crystal_icon.png"
       }
     ]
   },
@@ -4589,14 +4533,14 @@
       {
         "name": "Mechanical Parts",
         "value": "12",
-        "prefix": "Sleek",
-        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
+        "prefix": "Efficient",
+        "imgurl": "/content/images/120px-Efficient_mechanical_parts_icon.png"
       },
       {
         "name": "Ore",
         "value": "3",
-        "prefix": "Obsidian",
-        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
+        "prefix": "Brightcore",
+        "imgurl": "/content/images/120px-Brightcore_ore_icon.png"
       }
     ]
   },
@@ -4816,22 +4760,22 @@
     "AmmoType": null,
     "Materials": [
       {
-        "name": "Blast Powder",
-        "value": "15",
+        "name": "Nuts n Bolts",
+        "value": "7",
         "prefix": "",
-        "imgurl": "/content/images/120px-Blast_powder_icon.png"
+        "imgurl": "/content/images/120px-Nuts_n_bolts_icon.png"
       },
       {
-        "name": "Active Powercell",
-        "value": "1",
+        "name": "Planks",
+        "value": "4",
         "prefix": "",
-        "imgurl": "/content/images/120px-Active_powercell_icon.png"
+        "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
+        "name": "Crystal",
+        "value": "2",
+        "prefix": "Quartz",
+        "imgurl": "/content/images/120px-Quartz_crystal_icon.png"
       }
     ]
   },
@@ -5684,22 +5628,22 @@
     "AmmoType": null,
     "Materials": [
       {
-        "name": "Blast Powder",
-        "value": "15",
+        "name": "Nuts n Bolts",
+        "value": "12",
         "prefix": "",
-        "imgurl": "/content/images/120px-Blast_powder_icon.png"
+        "imgurl": "/content/images/120px-Nuts_n_bolts_icon.png"
       },
       {
-        "name": "Active Powercell",
-        "value": "1",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Active_powercell_icon.png"
+        "name": "Ore",
+        "value": "4",
+        "prefix": "Rough",
+        "imgurl": "/content/images/120px-Rough_ore_icon.png"
       },
       {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
+        "name": "Mechanical Parts",
+        "value": "3",
+        "prefix": "Simple",
+        "imgurl": "/content/images/120px-Simple_mechanical_parts_icon.png"
       }
     ]
   },
@@ -6564,10 +6508,10 @@
         "imgurl": "/content/images/120px-Rough_ore_icon.png"
       },
       {
-        "name": "Mineral Powder",
+        "name": "Oxidized Powder",
         "value": "36",
         "prefix": "Fine-grain",
-        "imgurl": "/content/images/120px-Fine-grain_mineral_powder_icon.png"
+        "imgurl": "/content/images/120px-Oxidized_mineral_powder_icon.png"
       },
       {
         "name": "Active Powercell",
@@ -6576,10 +6520,10 @@
         "imgurl": "/content/images/120px-Active_powercell_icon.png"
       },
       {
-        "name": "Ore",
+        "name": "Crystal",
         "value": "11",
-        "prefix": "Malachite",
-        "imgurl": "/content/images/120px-Malachite_ore_icon.png"
+        "prefix": "Sunbeam",
+        "imgurl": "/content/images/120px-Sunbeam_crystal_icon.png"
       }
     ]
   },
@@ -7886,76 +7830,14 @@
       {
         "name": "Mechanical Parts",
         "value": "3",
-        "prefix": "Sleek",
-        "imgurl": "/content/images/120px-Sleek_mechanical_parts_icon.png"
+        "prefix": "Simple",
+        "imgurl": "/content/images/120px-Simple_mechanical_parts_icon.png"
       },
       {
         "name": "Batteries",
         "value": "1",
         "prefix": "",
         "imgurl": "/content/images/120px-Batteries_icon.png"
-      }
-    ]
-  },
-  {
-    "imgurl": "/content/images/T-Icon-Weapons-Electric-Trap-Wall-L.png",
-    "name": "Wall Dynamo",
-    "level": 1,
-    "stars": 1,
-    "description": "Schematic:sid_wall_electric_vr_t01",
-    "stat": [
-      {
-        "name": "Element: Nature",
-        "value": "",
-        "level": "common"
-      },
-      {
-        "name": " Damage",
-        "value": "10%",
-        "level": "common"
-      },
-      {
-        "name": " Crit Damage",
-        "value": "90%",
-        "level": "rare"
-      },
-      {
-        "name": " Damage",
-        "value": "20%",
-        "level": "rare"
-      },
-      {
-        "name": " Damage",
-        "value": "20%",
-        "level": "rare"
-      },
-      {
-        "name": " Durability",
-        "value": "28%",
-        "level": "rare"
-      }
-    ],
-    "SchematicType": "Trap",
-    "DamageType": null,
-    "AmmoType": null,
-    "Materials": [
-      {
-        "name": "Blast Powder",
-        "value": "15",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Blast_powder_icon.png"
-      },
-      {
-        "name": "Active Powercell",
-        "value": "1",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Active_powercell_icon.png"
-      },
-      {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
       }
     ]
   },
@@ -8064,22 +7946,22 @@
     "AmmoType": null,
     "Materials": [
       {
-        "name": "Blast Powder",
-        "value": "15",
+        "name": "Planks",
+        "value": "6",
         "prefix": "",
-        "imgurl": "/content/images/120px-Blast_powder_icon.png"
+        "imgurl": "/content/images/120px-Planks_icon.png"
       },
       {
-        "name": "Active Powercell",
-        "value": "1",
-        "prefix": "",
-        "imgurl": "/content/images/120px-Active_powercell_icon.png"
+        "name": "Crystal",
+        "value": "2",
+        "prefix": "Quartz",
+        "imgurl": "/content/images/120px-Quartz_crystal_icon.png"
       },
       {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
+        "name": "Mechanical Parts",
+        "value": 2,
+        "prefix": "Simple",
+        "imgurl": "/content/images/120px-Simple_mechanical_parts_icon.png"
       }
     ]
   },
@@ -8382,8 +8264,8 @@
       {
         "name": "Twine",
         "value": "30",
-        "prefix": "Peaky",
-        "imgurl": "/content/images/120px-Peaky_twine_icon.png"
+        "prefix": "Carved",
+        "imgurl": "/content/images/120px-Carved_twine_icon.png"
       },
       {
         "name": "Active Powercell",
@@ -8394,8 +8276,8 @@
       {
         "name": "Ore",
         "value": "11",
-        "prefix": "Obsidian",
-        "imgurl": "/content/images/120px-Obsidian_ore_icon.png"
+        "prefix": "Brightcore",
+        "imgurl": "/content/images/120px-Brightcore_ore_icon.png"
       }
     ]
   },
