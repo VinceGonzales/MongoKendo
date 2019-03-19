@@ -30,6 +30,15 @@ namespace Rad.Web.Areas.Fortnite.Controllers
                 viewModel = JsonConvert.DeserializeObject<List<SchematicVM>>(json);
             }
             
+            foreach(SchematicVM sch in viewModel)
+            {
+                sch.name = sch.name.Trim();
+                foreach(TraitVM trait in sch.stat)
+                {
+                    trait.name = trait.name.Trim();
+                }
+            }
+
             return Json(viewModel.OrderBy(s => s.name), JsonRequestBehavior.AllowGet);
         }
 
