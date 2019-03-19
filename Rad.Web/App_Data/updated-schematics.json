@@ -5324,16 +5324,22 @@
         "imgurl": "/content/images/120px-Blast_powder_icon.png"
       },
       {
+        "name": "Mechanical Parts",
+        "value": "30",
+        "prefix": "Sturdy",
+        "imgurl": "/content/images/120px-Sturdy_mechanical_parts_icon.png"
+      },
+      {
         "name": "Active Powercell",
         "value": "1",
         "prefix": "",
         "imgurl": "/content/images/120px-Active_powercell_icon.png"
       },
       {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
+        "name": "Ore",
+        "value": "11",
+        "prefix": "Malachite",
+        "imgurl": "/content/images/120px-Malachite_ore_icon.png"
       }
     ]
   },
@@ -6142,16 +6148,22 @@
         "imgurl": "/content/images/120px-Blast_powder_icon.png"
       },
       {
+        "name": "Mechanical Parts",
+        "value": "30",
+        "prefix": "Sturdy",
+        "imgurl": "/content/images/120px-Sturdy_mechanical_parts_icon.png"
+      },
+      {
         "name": "Active Powercell",
         "value": "1",
         "prefix": "",
         "imgurl": "/content/images/120px-Active_powercell_icon.png"
       },
       {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
+        "name": "Ore",
+        "value": "11",
+        "prefix": "Malachite",
+        "imgurl": "/content/images/120px-Malachite_ore_icon.png"
       }
     ]
   },
@@ -6328,16 +6340,22 @@
         "imgurl": "/content/images/120px-Blast_powder_icon.png"
       },
       {
+        "name": "Mechanical Parts",
+        "value": "30",
+        "prefix": "Sturdy",
+        "imgurl": "/content/images/120px-Sturdy_mechanical_parts_icon.png"
+      },
+      {
         "name": "Active Powercell",
         "value": "1",
         "prefix": "",
         "imgurl": "/content/images/120px-Active_powercell_icon.png"
       },
       {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
+        "name": "Ore",
+        "value": "11",
+        "prefix": "Malachite",
+        "imgurl": "/content/images/120px-Malachite_ore_icon.png"
       }
     ]
   },
@@ -7146,16 +7164,22 @@
         "imgurl": "/content/images/120px-Blast_powder_icon.png"
       },
       {
+        "name": "Mechanical Parts",
+        "value": "30",
+        "prefix": "Sturdy",
+        "imgurl": "/content/images/120px-Sturdy_mechanical_parts_icon.png"
+      },
+      {
         "name": "Active Powercell",
         "value": "1",
         "prefix": "",
         "imgurl": "/content/images/120px-Active_powercell_icon.png"
       },
       {
-        "name": "",
-        "value": "",
-        "prefix": "",
-        "imgurl": ""
+        "name": "Ore",
+        "value": "11",
+        "prefix": "Malachite",
+        "imgurl": "/content/images/120px-Malachite_ore_icon.png"
       }
     ]
   },
