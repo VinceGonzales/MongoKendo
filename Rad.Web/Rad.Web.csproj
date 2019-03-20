@@ -595,6 +595,7 @@
     <Content Include="App_Data\apex-weapons.json" />
     <Content Include="App_Data\heroes.json" />
     <Content Include="Areas\Fortnite\Views\Main\Heroes.cshtml" />
+    <Content Include="App_Data\division-weapons.json" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />

@@ -1,0 +1,33 @@
+[
+{"Name":"ACR","Type":"Assault Rifle","Attribute":{"RoF":"760","Magazine":"30","Accuracy":"55","Stability":"34","Range":"27m","FireMode":"Automatic","ReloadTime":"2.70s"}}
+,{"Name":"AK-47","Type":"Assault Rifle","Attribute":{"RoF":"600","Magazine":"30","Accuracy":"54","Stability":"37","Range":"26m","FireMode":"Automatic","ReloadTime":"3.00s"}}
+,{"Name":"Classic FAL","Type":"Assault Rifle","Attribute":{"RoF":"3 Round Burst","Magazine":"20","Accuracy":"37","Stability":"28","Range":"32m","FireMode":"","ReloadTime":"2.80s"}}
+,{"Name":"G36","Type":"Assault Rifle","Attribute":{"RoF":"750","Magazine":"30","Accuracy":"44","Stability":"37","Range":"32m","FireMode":"Automatic","ReloadTime":"2.00 Seconds"}}
+,{"Name":"M4","Type":"Assault Rifle","Attribute":{"RoF":"850","Magazine":"30","Accuracy":"51","Stability":"38","Range":"28m","FireMode":"Automatic","ReloadTime":"2.90s"}}
+,{"Name":"POF P416","Type":"Assault Rifle","Attribute":{"RoF":"750","Magazine":"30","Accuracy":"36","Stability":"39","Range":"26m","FireMode":"Automatic","ReloadTime":"2.80s"}}
+,{"Name":"SA-58","Type":"Assault Rifles","Attribute":{"RoF":"650","Magazine":"20","Accuracy":"47","Stability":"29","Range":"32m/105ft","FireMode":"Burst","ReloadTime":"2.80s"}}
+,{"Name":"SCAR-L","Type":"Assault Rifle","Attribute":{"RoF":"625","Magazine":"30","Accuracy":"59","Stability":"33","Range":"28m","FireMode":"Automatic","ReloadTime":"2.70"}}
+,{"Name":"M44","Type":"Marksman Rifle","Attribute":{"RoF":"55","Magazine":"5","Accuracy":"58","Stability":"21","Range":"60m","FireMode":"Bolt-action","ReloadTime":"4.20s"}}
+,{"Name":"M700","Type":"Marksman Rifle","Attribute":{"RoF":"54","Magazine":"7","Accuracy":"","Stability":"","Range":"42m","FireMode":"Bolt-Action","ReloadTime":""}}
+,{"Name":"SRS","Type":"Marksman Rifle","Attribute":{"RoF":"53","Magazine":"7","Accuracy":"70","Stability":"20","Range":"42m/139ft","FireMode":"Bolt-action","ReloadTime":"3.20s"}}
+,{"Name":"M1A","Type":"Marksman rifle","Attribute":{"RoF":"300","Magazine":"10","Accuracy":"57","Stability":"28","Range":"60m","FireMode":"Semi-auto","ReloadTime":"3.50s"}}
+,{"Name":"SCAR-H","Type":"Marksman Rifle","Attribute":{"RoF":"275","Magazine":"15","Accuracy":"65","Stability":"25","Range":"60m","FireMode":"Semi-automactic","ReloadTime":"3.00s"}}
+,{"Name":"SVD","Type":"Marksman Rifle","Attribute":{"RoF":"260","Magazine":"10","Accuracy":"","Stability":"","Range":"34m","FireMode":"Semi-Automatic","ReloadTime":"2.30s"}}
+,{"Name":"MP5","Type":"Submachine Gun","Attribute":{"RoF":"800","Magazine":"32","Accuracy":"21 (31 in burst)","Stability":"39","Range":"16m/52ft","FireMode":" • Automatic  •  3-Round burst (in variant)","ReloadTime":"2.50s"}}
+,{"Name":"MP7","Type":"Submachine Gun","Attribute":{"RoF":"950","Magazine":"20","Accuracy":"47","Stability":"34","Range":"27m","FireMode":"Automatic","ReloadTime":"1.90s"}}
+,{"Name":"T821","Type":"Submachine Gun","Attribute":{"RoF":"550","Magazine":"32","Accuracy":"30","Stability":"39","Range":"17m","FireMode":"Automatic","ReloadTime":"2.20s"}}
+,{"Name":"SMG-9","Type":"Submachine Gun","Attribute":{"RoF":"825","Magazine":"32","Accuracy":"40","Stability":"36","Range":"13m","FireMode":"Automatic","ReloadTime":"2.40s"}}
+,{"Name":"Vector","Type":"Submachine Gun","Attribute":{"RoF":"750","Magazine":"25, 20 (Tactical Vector .45 ACP)","Accuracy":"16","Stability":"37","Range":"15m","FireMode":"Automatic","ReloadTime":"2.30s"}}
+,{"Name":"AUG A3","Type":"Submachine Gun","Attribute":{"RoF":"725","Magazine":"25","Accuracy":"32","Stability":"39","Range":"17m/56ft","FireMode":"Automatic","ReloadTime":"2.50s"}}
+,{"Name":"PP-19","Type":"Submachine Gun","Attribute":{"RoF":"700","Magazine":"53","Accuracy":"","Stability":"","Range":"16","FireMode":"Automatic","ReloadTime":"2.30s"}}
+,{"Name":"UMP-45","Type":"Submachine Gun","Attribute":{"RoF":"600650 (Converted USC)","Magazine":"3020 (Converted USC)","Accuracy":"","Stability":"","Range":"14","FireMode":"Automatic","ReloadTime":"2.10s"}}
+,{"Name":"M870","Type":"Shotgun","Attribute":{"RoF":"75","Magazine":"5","Accuracy":"6","Stability":"8","Range":"9m","FireMode":"Pump Action","ReloadTime":"3.80s"}}
+,{"Name":"Super 90","Type":"Shotgun","Attribute":{"RoF":"150","Magazine":"8","Accuracy":"8","Stability":"23","Range":"9m","FireMode":"Semi-Automatic","ReloadTime":"5.0s"}}
+,{"Name":"SASG-12","Type":"","Attribute":{"RoF":"180","Magazine":"7","Accuracy":"47","Stability":"34","Range":"27m","FireMode":"Semi-Automatic","ReloadTime":"2.70s"}}
+,{"Name":"Double Barrel Shotgun","Type":"Shotgun","Attribute":{"RoF":"200","Magazine":"2","Accuracy":"13","Stability":"16","Range":"11m/36ft","FireMode":"Semi-Automatic","ReloadTime":"2.20s"}}
+,{"Name":"M249 B","Type":"Light Machine Gun","Attribute":{"RoF":"550","Magazine":"100","Accuracy":"24","Stability":"23","Range":"36m","FireMode":"Automatic","ReloadTime":"5.50s"}}
+,{"Name":"M60","Type":"Light Machine Guns","Attribute":{"RoF":"500","Magazine":"100","Accuracy":"52","Stability":"27","Range":"40m/131ft","FireMode":"Automatic","ReloadTime":"5.75s"}}
+,{"Name":"MG5","Type":"Light Machine Gun","Attribute":{"RoF":"800","Magazine":"50","Accuracy":"","Stability":"","Range":"30","FireMode":"Automatic","ReloadTime":"5.50s"}}
+,{"Name":"RPK-74","Type":"Light Machine Gun","Attribute":{"RoF":"650","Magazine":"45","Accuracy":"37","Stability":"26","Range":"28m","FireMode":"Automatic","ReloadTime":"3.20s"}}
+,{"Name":"L86 LSW","Type":"Light Machine Gun","Attribute":{"RoF":"610","Magazine":"30","Accuracy":"24","Stability":"22","Range":"35m","FireMode":"Automatic","ReloadTime":"5.50s"}}
+]
