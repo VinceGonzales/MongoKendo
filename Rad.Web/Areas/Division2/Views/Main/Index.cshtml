@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "Division 2";
+}
+@section header {
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    @Styles.Render("~/Content/css/kendoui2018")
+    @Scripts.Render("~/bundles/kendoui2018")
+    <style>
+        #pnlMain.k-grid.k-widget,
+        #pnlDetail.k-grid.k-widget {
+            border-style: none;
+        }
+    </style>
+}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h3>Division 2 - Weapons</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div id="pnlMain" class="col-md-7">
+        </div>
+    </div>
+</div>
+
+@section scripts {
+<script src="@Url.Content("~/scripts/division2.js")" type="text/javascript"></script>
+<script>
+var apiUrl = '@Url.Action("GetWeapons", "Main", new { Area = "Division2" })';
+window.dataSourceWeapons = new kendo.data.DataSource({
+    transport: {
+        read: { url: apiUrl, dataType: "json" }
+    },
+    schema: {
+        model: { fields: weaponDto }
+    },
+    sort: { field: "WeaponType", dir: "asc" },
+    requestStart: function (e) { },
+    requestEnd: function (e) { },
+    change: function (e) { /*console.log("change: ", e);*/ },
+    error: function (e) { /*console.log("error: ", e);*/ }
+});
+$(function () {
+    $("#pnlMain").kendoGrid({
+        dataSource: dataSourceWeapons,
+        columns: [
+            { field: "Name", title: "Name", width: 100 },
+            { field: "WeaponType", title: "WeaponType", width: 110 }
+        ],
+        sortable: true,
+        height: 500,
+        detailInit: detailInit,
+        selectable: true
+    });
+
+    window.dataSourceWeapons.read();
+});
+</script>
+}

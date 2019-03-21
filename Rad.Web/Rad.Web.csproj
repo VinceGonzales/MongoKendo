@@ -571,6 +571,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Scripts\division2.js" />
     <Content Include="Scripts\fortnite-heroes.js" />
     <Content Include="Scripts\apex.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -596,6 +597,10 @@
     <Content Include="App_Data\heroes.json" />
     <Content Include="Areas\Fortnite\Views\Main\Heroes.cshtml" />
     <Content Include="App_Data\division-weapons.json" />
+    <Content Include="Areas\Division2\Views\web.config" />
+    <Content Include="Areas\Division2\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\Division2\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\Division2\Views\Main\Index.cshtml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -613,6 +618,9 @@
     <Compile Include="Areas\Apex\ApexAreaRegistration.cs" />
     <Compile Include="Areas\Apex\Controllers\MainController.cs" />
     <Compile Include="Areas\Apex\Models\GunVM.cs" />
+    <Compile Include="Areas\Division2\Controllers\MainController.cs" />
+    <Compile Include="Areas\Division2\Division2AreaRegistration.cs" />
+    <Compile Include="Areas\Division2\Models\WeaponVM.cs" />
     <Compile Include="Areas\Fortnite\Controllers\MainController.cs" />
     <Compile Include="Areas\Fortnite\FortniteAreaRegistration.cs" />
     <Compile Include="Areas\Fortnite\Models\HeroVM.cs" />
