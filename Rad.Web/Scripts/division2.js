@@ -1,4 +1,5 @@
-﻿var weaponDto = {
+﻿var weapTypes = ["Assault Rifle", "Marksman Rifle", "Rifle", "Submachine Gun", "Light Machine Gun", "Shotgun", "Sidearm"];
+var weaponDto = {
     Name: { type: "string" },
     WeaponType: { type: "string" },
     ImageUrl: { type: "string" },
@@ -75,7 +76,7 @@ function fn_AvgChart(weaponType) {
         seriesDefaults: { spacing: 0.1 },
         plotArea: { margin: { right:20 } },
         series: [
-            { field: "RoF", categoryField: "Name", name: "RoF", color: "#3A506B" }
+            { field: "RoF", categoryField: "Name", name: "Rate of Fire" }
         ],
         categoryAxis: {
             majorGridLines: { visible: false },
@@ -85,7 +86,7 @@ function fn_AvgChart(weaponType) {
         },
         valueAxis: {
             majorUnit: 100,
-            max: 1000,
+            max: rofAggregate.max + 100,
             plotBands: [
                 {
                     from: rofAggregate.avg - 4,
@@ -97,4 +98,17 @@ function fn_AvgChart(weaponType) {
             line: { visible: false }
         }
     });
+}
+
+function fn_ddlChart() {
+    $("#weapType").kendoDropDownList({
+        dataSource: weapTypes,
+        optionLabel: "- Select -",
+        change: onDdlChange
+    });
+}
+
+function onDdlChange() {
+    var value = $("#weapType").val();
+    fn_AvgChart(value);
 }

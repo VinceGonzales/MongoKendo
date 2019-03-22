@@ -26,6 +26,13 @@
         </div>
     </div>
     <div class="row">
+        <div class="col-md-4">
+            <br/>
+            <label for="weapType">Select Type:</label>
+            <input id="weapType" value="" style="width: 100%;" />
+        </div>
+    </div>
+    <div class="row">
         <div id="pnlChartA" class="col-md-11" />
     </div>
 </div>
@@ -63,7 +70,8 @@ $(function () {
 
     window.dataSourceWeapons.read();
 
-    setTimeout(function () { fn_AvgChart("Assault Rifle"); }, 1000);
+    //setTimeout(function () { fn_AvgChart("Assault Rifle"); }, 1000);
+    fn_ddlChart();
 });
 </script>
 }

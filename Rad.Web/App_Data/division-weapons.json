@@ -600,7 +600,7 @@
     "Magazine": 12,
     "ReloadTime": "1.9s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/300px-S&W_M&P_45acp.jpg"
   },
   {
     "WeaponType": "Sidearm",
@@ -618,7 +618,7 @@
     "Magazine": 8,
     "ReloadTime": "1.9s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-Deser_Eagle_XIX_50AE_Picatinny.jpg"
   },
   {
     "WeaponType": "Sidearm",
@@ -627,7 +627,7 @@
     "Magazine": 7,
     "ReloadTime": "1.9s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/300px-M1911Colt.jpg"
   },
   {
     "WeaponType": "Sidearm",
@@ -645,7 +645,7 @@
     "Magazine": 15,
     "ReloadTime": "1.7s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/300px-M9-pistolet.jpg"
   },
   {
     "WeaponType": "Sidearm",
@@ -654,7 +654,7 @@
     "Magazine": 17,
     "ReloadTime": "1.9s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/300px-Px4_Storm.jpg"
   },
   {
     "WeaponType": "Sidearm",
@@ -681,7 +681,7 @@
     "Magazine": 15,
     "ReloadTime": "1.0s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/300px-FNP45.jpg"
   },
   {
     "WeaponType": "Sidearm",
@@ -690,7 +690,7 @@
     "Magazine": 20,
     "ReloadTime": "1.9s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/300px-Beretta93-1-.jpg"
   },
   {
     "WeaponType": "Sidearm",
@@ -699,7 +699,7 @@
     "Magazine": 6,
     "ReloadTime": "1.7s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/300px-S&W_Mod586.jpg"
   },
   {
     "WeaponType": "Sidearm",
@@ -708,7 +708,7 @@
     "Magazine": 6,
     "ReloadTime": "1.5s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/300px-800px-SW686.jpg"
   },
   {
     "WeaponType": "Sidearm",
@@ -717,7 +717,7 @@
     "Magazine": 7,
     "ReloadTime": "1.8s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/300px-Chiappa_Rhino_2_.jpg"
   },
   {
     "WeaponType": "Sidearm",
