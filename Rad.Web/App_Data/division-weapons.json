@@ -1,436 +1,739 @@
 [
   {
+    "WeaponType": "Assault Rifle",
     "Name": "ACR",
+    "RoF": 650,
+    "Magazine": 30,
+    "ReloadTime": "2.2s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
     "WeaponType": "Assault Rifle",
-    "Attribute": {
-      "RoF": "760",
-      "Magazine": "30",
-      "Accuracy": "55",
-      "Stability": "34",
-      "Range": "27m",
-      "FireMode": "Automatic",
-      "ReloadTime": "2.70s"
-    },
-    "ImageUrl": "/content/images/division2/ars.jpg"
+    "Name": "AK-M",
+    "RoF": 600,
+    "Magazine": 30,
+    "ReloadTime": "2.5s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
   },
   {
-    "Name": "AK-47",
     "WeaponType": "Assault Rifle",
-    "Attribute": {
-      "RoF": "600",
-      "Magazine": "30",
-      "Accuracy": "54",
-      "Stability": "37",
-      "Range": "26m",
-      "FireMode": "Automatic",
-      "ReloadTime": "3.00s"
-    },
-    "ImageUrl": "/content/images/division2/IMG-Classic-AK47.jpg"
+    "Name": "Black Market AK-M",
+    "RoF": 600,
+    "Magazine": 30,
+    "ReloadTime": "2.3s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
   },
   {
-    "Name": "Classic FAL",
     "WeaponType": "Assault Rifle",
-    "Attribute": {
-      "RoF": "",
-      "Magazine": "20",
-      "Accuracy": "37",
-      "Stability": "28",
-      "Range": "32m",
-      "FireMode": "",
-      "ReloadTime": "2.80s"
-    },
-    "ImageUrl": "/content/images/division2/Classic-FAL.png"
+    "Name": "Military AK-M",
+    "RoF": 600,
+    "Magazine": 30,
+    "ReloadTime": "2.5s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
   },
   {
-    "Name": "G36",
     "WeaponType": "Assault Rifle",
-    "Attribute": {
-      "RoF": "750",
-      "Magazine": "30",
-      "Accuracy": "44",
-      "Stability": "37",
-      "Range": "32m",
-      "FireMode": "Automatic",
-      "ReloadTime": "2.00s"
-    },
-    "ImageUrl": "/content/images/division2/IMG_Mili_G36.jpg"
-  },
-  {
-    "Name": "M4",
-    "WeaponType": "Assault Rifle",
-    "Attribute": {
-      "RoF": "850",
-      "Magazine": "30",
-      "Accuracy": "51",
-      "Stability": "38",
-      "Range": "28m",
-      "FireMode": "Automatic",
-      "ReloadTime": "2.90s"
-    },
-    "ImageUrl": "/content/images/division2/PoliceM4.png"
-  },
-  {
-    "Name": "POF P416",
-    "WeaponType": "Assault Rifle",
-    "Attribute": {
-      "RoF": "750",
-      "Magazine": "30",
-      "Accuracy": "36",
-      "Stability": "39",
-      "Range": "26m",
-      "FireMode": "Automatic",
-      "ReloadTime": "2.80s"
-    },
-    "ImageUrl": "/content/images/division2/400px-P416.jpg"
-  },
-  {
-    "Name": "SA-58",
-    "WeaponType": "Assault Rifle",
-    "Attribute": {
-      "RoF": "650",
-      "Magazine": "20",
-      "Accuracy": "47",
-      "Stability": "29",
-      "Range": "32m",
-      "FireMode": "Burst",
-      "ReloadTime": "2.80s"
-    },
-    "ImageUrl": "/content/images/division2/sa58.jpg"
-  },
-  {
-    "Name": "SCAR-L",
-    "WeaponType": "Assault Rifle",
-    "Attribute": {
-      "RoF": "625",
-      "Magazine": "30",
-      "Accuracy": "59",
-      "Stability": "33",
-      "Range": "28m",
-      "FireMode": "Automatic",
-      "ReloadTime": "2.70s"
-    },
-    "ImageUrl": "/content/images/division2/SCAR-L.jpg"
-  },
-  {
-    "Name": "M44",
-    "WeaponType": "Marksman Rifle",
-    "Attribute": {
-      "RoF": "55",
-      "Magazine": "5",
-      "Accuracy": "58",
-      "Stability": "21",
-      "Range": "60m",
-      "FireMode": "Bolt-action",
-      "ReloadTime": "4.20s"
-    },
-    "ImageUrl": "/content/images/division2/Classic-M44-Carbine.png"
-  },
-  {
-    "Name": "M700",
-    "WeaponType": "Marksman Rifle",
-    "Attribute": {
-      "RoF": "54",
-      "Magazine": "7",
-      "Accuracy": "",
-      "Stability": "",
-      "Range": "42m",
-      "FireMode": "Bolt-Action",
-      "ReloadTime": ""
-    },
-    "ImageUrl": "/content/images/division2/m700.png"
-  },
-  {
-    "Name": "SRS",
-    "WeaponType": "Marksman Rifle",
-    "Attribute": {
-      "RoF": "53",
-      "Magazine": "7",
-      "Accuracy": "70",
-      "Stability": "20",
-      "Range": "42m",
-      "FireMode": "Bolt-action",
-      "ReloadTime": "3.20s"
-    },
-    "ImageUrl": "/content/images/division2/SRS_338_-_Side_view.jpg"
-  },
-  {
-    "Name": "M1A",
-    "WeaponType": "Marksman Rifle",
-    "Attribute": {
-      "RoF": "300",
-      "Magazine": "10",
-      "Accuracy": "57",
-      "Stability": "28",
-      "Range": "60m",
-      "FireMode": "Semi-auto",
-      "ReloadTime": "3.50s"
-    },
-    "ImageUrl": "/content/images/division2/First_Wave_M1A_ingame.jpg"
-  },
-  {
-    "Name": "SCAR-H",
-    "WeaponType": "Marksman Rifle",
-    "Attribute": {
-      "RoF": "275",
-      "Magazine": "15",
-      "Accuracy": "65",
-      "Stability": "25",
-      "Range": "60m",
-      "FireMode": "Semi-automactic",
-      "ReloadTime": "3.00s"
-    },
-    "ImageUrl": "/content/images/division2/Military-SCAR-H.png"
-  },
-  {
-    "Name": "SVD",
-    "WeaponType": "Marksman Rifle",
-    "Attribute": {
-      "RoF": "260",
-      "Magazine": "10",
-      "Accuracy": "",
-      "Stability": "",
-      "Range": "34m",
-      "FireMode": "Semi-Automatic",
-      "ReloadTime": "2.30s"
-    },
-    "ImageUrl": "/content/images/division2/Surplus_SVD.png"
-  },
-  {
-    "Name": "MP5",
-    "WeaponType": "Submachine Gun",
-    "Attribute": {
-      "RoF": "800",
-      "Magazine": "32",
-      "Accuracy": "21",
-      "Stability": "39",
-      "Range": "16m",
-      "FireMode": " • Automatic  •  3-Round burst (in variant)",
-      "ReloadTime": "2.50s"
-    },
-    "ImageUrl": "/content/images/division2/NavyMP5_Louqas.png"
-  },
-  {
-    "Name": "MP7",
-    "WeaponType": "Submachine Gun",
-    "Attribute": {
-      "RoF": "950",
-      "Magazine": "20",
-      "Accuracy": "47",
-      "Stability": "34",
-      "Range": "27m",
-      "FireMode": "Automatic",
-      "ReloadTime": "1.90s"
-    },
-    "ImageUrl": "/content/images/division2/MP7.jpg"
-  },
-  {
-    "Name": "T821",
-    "WeaponType": "Submachine Gun",
-    "Attribute": {
-      "RoF": "550",
-      "Magazine": "32",
-      "Accuracy": "30",
-      "Stability": "39",
-      "Range": "17m",
-      "FireMode": "Automatic",
-      "ReloadTime": "2.20s"
-    },
-    "ImageUrl": "/content/images/division2/T821.jpg"
-  },
-  {
-    "Name": "SMG-9",
-    "WeaponType": "Submachine Gun",
-    "Attribute": {
-      "RoF": "825",
-      "Magazine": "32",
-      "Accuracy": "40",
-      "Stability": "36",
-      "Range": "13m",
-      "FireMode": "Automatic",
-      "ReloadTime": "2.40s"
-    },
-    "ImageUrl": "/content/images/division2/Converted_SMG9.png"
-  },
-  {
-    "Name": "Vector",
-    "WeaponType": "Submachine Gun",
-    "Attribute": {
-      "RoF": "750",
-      "Magazine": "25",
-      "Accuracy": "16",
-      "Stability": "37",
-      "Range": "15m",
-      "FireMode": "Automatic",
-      "ReloadTime": "2.30s"
-    },
-    "ImageUrl": "/content/images/division2/Vector_45-ACP.jpg"
-  },
-  {
     "Name": "AUG A3",
-    "WeaponType": "Submachine Gun",
-    "Attribute": {
-      "RoF": "725",
-      "Magazine": "25",
-      "Accuracy": "32",
-      "Stability": "39",
-      "Range": "17m",
-      "FireMode": "Automatic",
-      "ReloadTime": "2.50s"
-    },
-    "ImageUrl": "/content/images/division2/Enhanced_AUG_A3P.png"
+    "RoF": 680,
+    "Magazine": 30,
+    "ReloadTime": "2.0s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
   },
   {
+    "WeaponType": "Assault Rifle",
+    "Name": "CTAR",
+    "RoF": 900,
+    "Magazine": 30,
+    "ReloadTime": "2.1s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Assault Rifle",
+    "Name": "F2000",
+    "RoF": 850,
+    "Magazine": 30,
+    "ReloadTime": "2.0s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Assault Rifle",
+    "Name": "FAL/SA-58",
+    "RoF": 650,
+    "Magazine": 20,
+    "ReloadTime": "2.2s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Assault Rifle",
+    "Name": "Tactical SA-58",
+    "RoF": 650,
+    "Magazine": 20,
+    "ReloadTime": "2.3s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Assault Rifle",
+    "Name": "FAMAS",
+    "RoF": 900,
+    "Magazine": 30,
+    "ReloadTime": "2.2s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Assault Rifle",
+    "Name": "G36",
+    "RoF": 750,
+    "Magazine": 30,
+    "ReloadTime": "2.1s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Assault Rifle",
+    "Name": "Military G36",
+    "RoF": 750,
+    "Magazine": 30,
+    "ReloadTime": "2.3s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Assault Rifle",
+    "Name": "Police M4",
+    "RoF": 850,
+    "Magazine": 30,
+    "ReloadTime": "2.4s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Assault Rifle",
+    "Name": "Mk16",
+    "RoF": 625,
+    "Magazine": 30,
+    "ReloadTime": "2.2s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Assault Rifle",
+    "Name": "P416",
+    "RoF": 750,
+    "Magazine": 30,
+    "ReloadTime": "2.2s",
+    "Range": "10-45m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Marksman Rifle",
+    "Name": "Classic M44 Carbine",
+    "RoF": 55,
+    "Magazine": 5,
+    "ReloadTime": "4.1s",
+    "Range": "10-70m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Marksman Rifle",
+    "Name": "Classic M44 Carbine Replica",
+    "RoF": 55,
+    "Magazine": 5,
+    "ReloadTime": "4.2s",
+    "Range": "10-70m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Marksman Rifle",
+    "Name": "Custom M44",
+    "RoF": 55,
+    "Magazine": 5,
+    "ReloadTime": "3.2s",
+    "Range": "10-70m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Marksman Rifle",
+    "Name": "Hunting M44",
+    "RoF": 55,
+    "Magazine": 5,
+    "ReloadTime": "3.8s",
+    "Range": "10-70m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Marksman Rifle",
+    "Name": "SRS",
+    "RoF": 60,
+    "Magazine": 7,
+    "ReloadTime": "3.0s",
+    "Range": "10-70m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Marksman Rifle",
+    "Name": "M700",
+    "RoF": 54,
+    "Magazine": 7,
+    "ReloadTime": "7.1s",
+    "Range": "10-70m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Marksman Rifle",
+    "Name": "M700 Tactical",
+    "RoF": 59,
+    "Magazine": 7,
+    "ReloadTime": "7.1s",
+    "Range": "10-70m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Marksman Rifle",
+    "Name": "SRS-1",
+    "RoF": 60,
+    "Magazine": 5,
+    "ReloadTime": "3.2s",
+    "Range": "10-70m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Marksman Rifle",
+    "Name": "SVD",
+    "RoF": 260,
+    "Magazine": 10,
+    "ReloadTime": "2.5s",
+    "Range": "10-70m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Rifle",
+    "Name": "1886",
+    "RoF": 100,
+    "Magazine": 5,
+    "ReloadTime": "4.0s",
+    "Range": "10-60m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Rifle",
+    "Name": "ACR",
+    "RoF": 420,
+    "Magazine": 30,
+    "ReloadTime": "2.2s",
+    "Range": "10-60m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Rifle",
+    "Name": "Classic M1A",
+    "RoF": 180,
+    "Magazine": 10,
+    "ReloadTime": "3.0s",
+    "Range": "10-60m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Rifle",
+    "Name": "M1A CQB",
+    "RoF": 300,
+    "Magazine": 10,
+    "ReloadTime": "3.0s",
+    "Range": "10-60m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Rifle",
+    "Name": "M4/LAR-15",
+    "RoF": 240,
+    "Magazine": 30,
+    "ReloadTime": "2.4s",
+    "Range": "10-60m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Rifle",
+    "Name": "Mk17/Mk20",
+    "RoF": 275,
+    "Magazine": 20,
+    "ReloadTime": "2.2s",
+    "Range": "10-60m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Rifle",
+    "Name": "SIG 716",
+    "RoF": 300,
+    "Magazine": 20,
+    "ReloadTime": "2.4s",
+    "Range": "10-60m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Rifle",
+    "Name": "Urban MDR",
+    "RoF": 280,
+    "Magazine": 20,
+    "ReloadTime": "1.9s",
+    "Range": "10-60m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Rifle",
+    "Name": "USC",
+    "RoF": 240,
+    "Magazine": 20,
+    "ReloadTime": "2.2s",
+    "Range": "10-60m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Rifle",
+    "Name": "M16A2",
+    "RoF": 300,
+    "Magazine": 30,
+    "ReloadTime": "2.4s",
+    "Range": "10-60m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
+    "Name": "AUG",
+    "RoF": 725,
+    "Magazine": 25,
+    "ReloadTime": "2.0s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
+    "Name": "T821",
+    "RoF": 550,
+    "Magazine": 32,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
+    "Name": "SMG-9",
+    "RoF": 825,
+    "Magazine": 32,
+    "ReloadTime": "2.0s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
+    "Name": "SMG-9 A2",
+    "RoF": 825,
+    "Magazine": 32,
+    "ReloadTime": "1.8s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
+    "Name": "M1928",
+    "RoF": 600,
+    "Magazine": 30,
+    "ReloadTime": "2.2s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
+    "Name": "Tommy Gun",
+    "RoF": 800,
+    "Magazine": 50,
+    "ReloadTime": "2.2s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
+    "Name": "MP5",
+    "RoF": 800,
+    "Magazine": 32,
+    "ReloadTime": "2.0s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
+    "Name": "MP5 ST",
+    "RoF": 800,
+    "Magazine": 32,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
+    "Name": "MP7",
+    "RoF": 950,
+    "Magazine": 40,
+    "ReloadTime": "2.0s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
+    "Name": "MPX",
+    "RoF": 850,
+    "Magazine": 30,
+    "ReloadTime": "2.2s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
+    "Name": "P90",
+    "RoF": 900,
+    "Magazine": 50,
+    "ReloadTime": "2.0s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Submachine Gun",
     "Name": "PP-19",
-    "WeaponType": "Submachine Gun",
-    "Attribute": {
-      "RoF": "700",
-      "Magazine": "53",
-      "Accuracy": "",
-      "Stability": "",
-      "Range": "16m",
-      "FireMode": "Automatic",
-      "ReloadTime": "2.30s"
-    },
-    "ImageUrl": "/content/images/division2/PP-19.png"
+    "RoF": 700,
+    "Magazine": 53,
+    "ReloadTime": "2.5s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
   },
   {
+    "WeaponType": "Submachine Gun",
     "Name": "UMP-45",
+    "RoF": 600,
+    "Magazine": 30,
+    "ReloadTime": "2.2s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
     "WeaponType": "Submachine Gun",
-    "Attribute": {
-      "RoF": "600",
-      "Magazine": "30",
-      "Accuracy": "",
-      "Stability": "",
-      "Range": "14m",
-      "FireMode": "Automatic",
-      "ReloadTime": "2.10s"
-    },
-    "ImageUrl": "/content/images/division2/Police_UMP.jpg"
+    "Name": "Vector 9mm",
+    "RoF": 1,
+    "Magazine": 33,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
   },
   {
-    "Name": "M870",
-    "WeaponType": "Shotgun",
-    "Attribute": {
-      "RoF": "75",
-      "Magazine": "5",
-      "Accuracy": "6",
-      "Stability": "8",
-      "Range": "9m",
-      "FireMode": "Pump Action",
-      "ReloadTime": "3.80s"
-    },
-    "ImageUrl": "/content/images/division2/MilitaryM870.jpg"
+    "WeaponType": "Submachine Gun",
+    "Name": "Vector .45 APC",
+    "RoF": 1,
+    "Magazine": 25,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
   },
   {
-    "Name": "Super 90",
-    "WeaponType": "Shotgun",
-    "Attribute": {
-      "RoF": "150",
-      "Magazine": "8",
-      "Accuracy": "8",
-      "Stability": "23",
-      "Range": "9m",
-      "FireMode": "Semi-Automatic",
-      "ReloadTime": "5.0s"
-    },
-    "ImageUrl": "/content/images/division2/Tactical_Super_90_SBS.png"
+    "WeaponType": "Submachine Gun",
+    "Name": "Tactical Vector",
+    "RoF": 1,
+    "Magazine": 19,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
   },
   {
-    "Name": "SASG-12",
-    "WeaponType": "Shotgun",
-    "Attribute": {
-      "RoF": "180",
-      "Magazine": "7",
-      "Accuracy": "47",
-      "Stability": "34",
-      "Range": "27m",
-      "FireMode": "Semi-Automatic",
-      "ReloadTime": "2.70s"
-    },
-    "ImageUrl": "/content/images/division2/TacticalSASG-12k.jpg"
-  },
-  {
-    "Name": "Double Barrel Shotgun",
-    "WeaponType": "Shotgun",
-    "Attribute": {
-      "RoF": "200",
-      "Magazine": "2",
-      "Accuracy": "13",
-      "Stability": "16",
-      "Range": "11m",
-      "FireMode": "Semi-Automatic",
-      "ReloadTime": "2.20s"
-    },
-    "ImageUrl": "/content/images/division2/DoubleBarrelShotgun.jpg"
-  },
-  {
-    "Name": "M249 B",
     "WeaponType": "Light Machine Gun",
-    "Attribute": {
-      "RoF": "550",
-      "Magazine": "100",
-      "Accuracy": "24",
-      "Stability": "23",
-      "Range": "36m",
-      "FireMode": "Automatic",
-      "ReloadTime": "5.50s"
-    },
-    "ImageUrl": "/content/images/division2/M249-B.jpg"
-  },
-  {
     "Name": "M60",
-    "WeaponType": "Light Machine Gun",
-    "Attribute": {
-      "RoF": "500",
-      "Magazine": "100",
-      "Accuracy": "52",
-      "Stability": "27",
-      "Range": "40m",
-      "FireMode": "Automatic",
-      "ReloadTime": "5.75s"
-    },
-    "ImageUrl": "/content/images/division2/ClassicM60.jpg"
+    "RoF": 500,
+    "Magazine": 100,
+    "ReloadTime": "5.8s",
+    "Range": "10-50m",
+    "ImageUrl": "/content/images/division2/"
   },
   {
+    "WeaponType": "Light Machine Gun",
+    "Name": "Classic RPK-74",
+    "RoF": 650,
+    "Magazine": 45,
+    "ReloadTime": "3.0s",
+    "Range": "10-50m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Light Machine Gun",
+    "Name": "Black Market RPK-74 E",
+    "RoF": 650,
+    "Magazine": 45,
+    "ReloadTime": "2.5s",
+    "Range": "10-50m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Light Machine Gun",
+    "Name": "Military RPKR-74 M",
+    "RoF": 650,
+    "Magazine": 45,
+    "ReloadTime": "2.8s",
+    "Range": "10-50m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Light Machine Gun",
+    "Name": "M249 B",
+    "RoF": 550,
+    "Magazine": 100,
+    "ReloadTime": "5.6s",
+    "Range": "10-50m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Light Machine Gun",
+    "Name": "Tactical M249 Para",
+    "RoF": 550,
+    "Magazine": 100,
+    "ReloadTime": "5.5s",
+    "Range": "10-50m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Light Machine Gun",
     "Name": "MG5",
-    "WeaponType": "Light Machine Gun",
-    "Attribute": {
-      "RoF": "800",
-      "Magazine": "50",
-      "Accuracy": "",
-      "Stability": "",
-      "Range": "30m",
-      "FireMode": "Automatic",
-      "ReloadTime": "5.50s"
-    },
-    "ImageUrl": "/content/images/division2/MG5.png"
+    "RoF": 800,
+    "Magazine": 50,
+    "ReloadTime": "5.6s",
+    "Range": "10-50m",
+    "ImageUrl": "/content/images/division2/"
   },
   {
-    "Name": "RPK-74",
     "WeaponType": "Light Machine Gun",
-    "Attribute": {
-      "RoF": "650",
-      "Magazine": "45",
-      "Accuracy": "37",
-      "Stability": "26",
-      "Range": "28m",
-      "FireMode": "Automatic",
-      "ReloadTime": "3.20s"
-    },
-    "ImageUrl": "/content/images/division2/Classic-RPK-74.png"
+    "Name": "L86",
+    "RoF": 610,
+    "Magazine": 30,
+    "ReloadTime": "3.0s",
+    "Range": "10-50m",
+    "ImageUrl": "/content/images/division2/"
   },
   {
-    "Name": "L86 LSW",
     "WeaponType": "Light Machine Gun",
-    "Attribute": {
-      "RoF": "610",
-      "Magazine": "30",
-      "Accuracy": "24",
-      "Stability": "22",
-      "Range": "35m",
-      "FireMode": "Automatic",
-      "ReloadTime": "5.50s"
-    },
-    "ImageUrl": "/content/images/division2/Military-L86_LSW.png"
+    "Name": "MK46",
+    "RoF": 550,
+    "Magazine": 100,
+    "ReloadTime": "5.0s",
+    "Range": "10-50m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Shotgun",
+    "Name": "ACS-12",
+    "RoF": 300,
+    "Magazine": 20,
+    "ReloadTime": "2.3s",
+    "Range": "0-20m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Shotgun",
+    "Name": "Double Barrel",
+    "RoF": 200,
+    "Magazine": 2,
+    "ReloadTime": "2.2s",
+    "Range": "0-20m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Shotgun",
+    "Name": "M870",
+    "RoF": 75,
+    "Magazine": 5,
+    "ReloadTime": "3.7s",
+    "Range": "0-20m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Shotgun",
+    "Name": "SASG-12",
+    "RoF": 180,
+    "Magazine": 7,
+    "ReloadTime": "3.0s",
+    "Range": "0-20m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Shotgun",
+    "Name": "SPAS-12",
+    "RoF": 70,
+    "Magazine": 8,
+    "ReloadTime": "5.4s",
+    "Range": "0-20m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Shotgun",
+    "Name": "Super 90",
+    "RoF": 160,
+    "Magazine": 8,
+    "ReloadTime": "4.8s",
+    "Range": "0-20m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Shotgun",
+    "Name": "Marine Super 90",
+    "RoF": 160,
+    "Magazine": 8,
+    "ReloadTime": "4.3s",
+    "Range": "0-20m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "First Wave PF45",
+    "RoF": 230,
+    "Magazine": 12,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "Custom PF45",
+    "RoF": 230,
+    "Magazine": 15,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "D50",
+    "RoF": 150,
+    "Magazine": 8,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "M1911",
+    "RoF": 260,
+    "Magazine": 7,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "M45A1",
+    "RoF": 260,
+    "Magazine": 8,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "M9",
+    "RoF": 245,
+    "Magazine": 15,
+    "ReloadTime": "1.7s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "Px4 Storm Type F",
+    "RoF": 250,
+    "Magazine": 17,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "Px4 Storm Type T",
+    "RoF": 250,
+    "Magazine": 20,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "X-45",
+    "RoF": 250,
+    "Magazine": 10,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "X-45 Tactical Replica",
+    "RoF": 400,
+    "Magazine": 15,
+    "ReloadTime": "1.0s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "93R",
+    "RoF": 1100,
+    "Magazine": 20,
+    "ReloadTime": "1.9s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "586 Magnum",
+    "RoF": 160,
+    "Magazine": 6,
+    "ReloadTime": "1.7s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "Police 686 Magnum",
+    "RoF": 160,
+    "Magazine": 6,
+    "ReloadTime": "1.5s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "Diceros",
+    "RoF": 180,
+    "Magazine": 7,
+    "ReloadTime": "1.8s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "Snubnosed Diceros",
+    "RoF": 180,
+    "Magazine": 6,
+    "ReloadTime": "1.8s",
+    "Range": "0-30m",
+    "ImageUrl": "/content/images/division2/"
+  },
+  {
+    "WeaponType": "Sidearm",
+    "Name": "Double Barrel Sawed Off Shotgun",
+    "RoF": 200,
+    "Magazine": 2,
+    "ReloadTime": "2.2s",
+    "Range": "0-30m"
   }
 ]

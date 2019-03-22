@@ -25,6 +25,9 @@
             <img src="~/Content/images/division2/division2_logo.png" style="width: 420px;" />
         </div>
     </div>
+    <div class="row">
+        <div id="pnlChartA" class="col-md-11" />
+    </div>
 </div>
 
 @section scripts {
@@ -59,6 +62,8 @@ $(function () {
     });
 
     window.dataSourceWeapons.read();
+
+    setTimeout(function () { fn_AvgChart("Assault Rifle"); }, 1000);
 });
 </script>
 }

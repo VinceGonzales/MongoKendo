@@ -8,16 +8,9 @@ namespace Rad.Web.Areas.Division2.Models
         public string Name { get; set; }
         public string WeaponType { get; set; }
         public string ImageUrl { get; set; }
-        public Attribute Attribute { get; set; }
-    }
-    public class Attribute
-    {
-        public string RoF { get; set; }
-        public string Magazine { get; set; }
-        public string Accuracy { get; set; }
-        public string Stability { get; set; }
-        public string Range { get; set; }
-        public string FireMode { get; set; }
+        public int RoF { get; set; }
+        public int Magazine { get; set; }
         public string ReloadTime { get; set; }
+        public string Range { get; set; }
     }
 }

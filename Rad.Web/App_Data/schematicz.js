@@ -11,7 +11,7 @@ $saved.find(".infoboxfieldname").each(function($indx,$elem){
 });
 console.log(JSON.stringify(weapon));
 
-/* https://fortnite.gamepedia.com/Bald_Eagle#Statistics
+/*//fortnite.gamepedia.com/Bald_Eagle#Statistics
 {"Name":"Bald Eagle","Description":"Pistol: Semi-Automatic Handcannon. Fires large rounds that deal high damage and knock back targets. Good range, accuracy, rate of fire, and magazine size.","Attributes":[{"Txt":"Damage","Val":"143"},{"Txt":"Critical Hit Chance","Val":"10%"},{"Txt":"Critical Hit Damage","Val":"+75%"},{"Txt":"Fire Rate","Val":"0.8"},{"Txt":"Magazine Size","Val":"7"},{"Txt":"Range","Val":"4096"},{"Txt":"Durability","Val":"375"},{"Txt":"Reload Time","Val":"2.2"},{"Txt":"Ammo Cost","Val":"1"},{"Txt":"Impact","Val":"675"}]}
 
 {"Name":"Bundlebuss","Description":"Assault Weapon: Flintlock. A surprisingly accurate multi-barreled rifle that fires in powerful bursts. A high damage and large magazine help compensate for a slow fire rate and heavy kick.","Attributes":[{"Txt":"Damage","Val":"35"},{"Txt":"Critical Hit Chance","Val":"15%"},{"Txt":"Critical Hit Damage","Val":"+75%"},{"Txt":"Fire Rate","Val":"1.13"},{"Txt":"Magazine Size","Val":"24"},{"Txt":"Range","Val":"5120"},{"Txt":"Durability","Val":"375"},{"Txt":"Reload Time","Val":"3.3"},{"Txt":"Ammo Cost","Val":"1"},{"Txt":"Impact","Val":"105"}]}
