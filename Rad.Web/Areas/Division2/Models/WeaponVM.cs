@@ -7,6 +7,7 @@ namespace Rad.Web.Areas.Division2.Models
     {
         public string Name { get; set; }
         public string WeaponType { get; set; }
+        public string ImageUrl { get; set; }
         public Attribute Attribute { get; set; }
     }
     public class Attribute

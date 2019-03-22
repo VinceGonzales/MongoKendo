@@ -21,6 +21,9 @@
     <div class="row">
         <div id="pnlMain" class="col-md-7">
         </div>
+        <div id="pnlDetail" class="col-md-4">
+            <img src="~/Content/images/division2/division2_logo.png" style="width: 420px;" />
+        </div>
     </div>
 </div>
 
@@ -50,6 +53,7 @@ $(function () {
         ],
         sortable: true,
         height: 500,
+        change: onChange,
         detailInit: detailInit,
         selectable: true
     });

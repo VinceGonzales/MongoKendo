@@ -1,6 +1,17 @@
 ﻿var weaponDto = {
     Name: { type: "string" },
-    WeaponType: { type: "string" }
+    WeaponType: { type: "string" },
+    ImageUrl: { type: "string" }
+}
+function onChange(arg) {
+    var selectedRows = this.select();
+    var selectedDataItems = [];
+    for (var i = 0; i < selectedRows.length; i++) {
+        var dataItem = this.dataItem(selectedRows[i]);
+        selectedDataItems.push(dataItem);
+    }
+    // selectedDataItems contains all selected data items
+    $("#pnlDetail img").attr("src", selectedDataItems[0].ImageUrl);
 }
 function detailInit(e) {
     $("<div/>").appendTo(e.detailCell).kendoGrid({
@@ -9,10 +20,10 @@ function detailInit(e) {
             schema: {
                 model: {
                     fields: {
-                        RoF: { type: "string" },
-                        Magazine: { type: "string" },
-                        Accuracy: { type: "string" },
-                        Stability: { type: "string" },
+                        RoF: { type: "number" },
+                        Magazine: { type: "number" },
+                        Accuracy: { type: "number" },
+                        Stability: { type: "number" },
                         Range: { type: "string" },
                         FireMode: { type: "string" },
                         ReloadTime: { type: "string" }
@@ -32,4 +43,23 @@ function detailInit(e) {
             { field: "ReloadTime", title: "Rload", width: "80px" }
         ]
     });
+}
+function fn_GetAggregateData() {
+    var rof = [];
+    var sum = 0;
+    var weaponList = dataSourceWeapons.data();
+    $.each(weaponList, function (key, value) {
+        if (value.Attribute.RoF.length) {
+            var rofValue = parseInt(value.Attribute.RoF);
+            rof.push(rofValue);
+            sum += rofValue;
+        }
+    });
+    var avg = sum / rof.length;
+    var max = Math.max.apply(Math, rof);
+    var min = Math.min.apply(Math, rof);
+    console.log("Sum RoF: ", sum);
+    console.log("Avg RoF: ", avg);
+    console.log("Max RoF: ", max);
+    console.log("Min RoF: ", min);
 }
