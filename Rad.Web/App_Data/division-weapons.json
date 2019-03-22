@@ -6,7 +6,7 @@
     "Magazine": 30,
     "ReloadTime": "2.2s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-Bushmaster-acr-carbine.jpg"
   },
   {
     "WeaponType": "Assault Rifle",
@@ -15,7 +15,7 @@
     "Magazine": 30,
     "ReloadTime": "2.5s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-AKMRifle.jpg"
   },
   {
     "WeaponType": "Assault Rifle",
@@ -42,7 +42,7 @@
     "Magazine": 30,
     "ReloadTime": "2.0s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-1.Steyr_AUG_A3.jpg"
   },
   {
     "WeaponType": "Assault Rifle",
@@ -51,7 +51,7 @@
     "Magazine": 30,
     "ReloadTime": "2.1s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-IMI_CTAR-21_Tavor.jpg"
   },
   {
     "WeaponType": "Assault Rifle",
@@ -60,7 +60,7 @@
     "Magazine": 30,
     "ReloadTime": "2.0s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-FN_F2000_tactical.jpg"
   },
   {
     "WeaponType": "Assault Rifle",
@@ -69,7 +69,7 @@
     "Magazine": 20,
     "ReloadTime": "2.2s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-Fn_fal_g_series.jpg"
   },
   {
     "WeaponType": "Assault Rifle",
@@ -78,7 +78,7 @@
     "Magazine": 20,
     "ReloadTime": "2.3s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-DSA-SA-58-OSW.jpg"
   },
   {
     "WeaponType": "Assault Rifle",
@@ -87,7 +87,7 @@
     "Magazine": 30,
     "ReloadTime": "2.2s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-Famas_Valorisé.jpg"
   },
   {
     "WeaponType": "Assault Rifle",
@@ -96,7 +96,7 @@
     "Magazine": 30,
     "ReloadTime": "2.1s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/450px-Hkg36c.jpg"
   },
   {
     "WeaponType": "Assault Rifle",
@@ -105,7 +105,7 @@
     "Magazine": 30,
     "ReloadTime": "2.3s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-G36.jpg"
   },
   {
     "WeaponType": "Assault Rifle",
@@ -114,7 +114,7 @@
     "Magazine": 30,
     "ReloadTime": "2.4s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-ColtM4A1.jpg"
   },
   {
     "WeaponType": "Assault Rifle",
@@ -132,7 +132,7 @@
     "Magazine": 30,
     "ReloadTime": "2.2s",
     "Range": "10-45m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-POF_P416.jpg"
   },
   {
     "WeaponType": "Marksman Rifle",
@@ -222,7 +222,7 @@
     "Magazine": 5,
     "ReloadTime": "4.0s",
     "Range": "10-60m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-Montewalshwinchester.jpg"
   },
   {
     "WeaponType": "Rifle",
@@ -240,7 +240,7 @@
     "Magazine": 10,
     "ReloadTime": "3.0s",
     "Range": "10-60m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-SFA_M1A.jpg"
   },
   {
     "WeaponType": "Rifle",
@@ -276,7 +276,7 @@
     "Magazine": 20,
     "ReloadTime": "2.4s",
     "Range": "10-60m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-SIG716G2_Patrol.jpg"
   },
   {
     "WeaponType": "Rifle",
@@ -285,7 +285,7 @@
     "Magazine": 20,
     "ReloadTime": "1.9s",
     "Range": "10-60m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-Desert_Tech_MDR.jpg"
   },
   {
     "WeaponType": "Rifle",
@@ -294,7 +294,7 @@
     "Magazine": 20,
     "ReloadTime": "2.2s",
     "Range": "10-60m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-H&K-USC_Rifle.jpg"
   },
   {
     "WeaponType": "Rifle",
@@ -303,7 +303,7 @@
     "Magazine": 30,
     "ReloadTime": "2.4s",
     "Range": "10-60m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-M16A2.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -312,7 +312,7 @@
     "Magazine": 25,
     "ReloadTime": "2.0s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/450px-AUG_A3_9mm_XS.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -321,7 +321,7 @@
     "Magazine": 32,
     "ReloadTime": "1.9s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-Socimi821.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -348,7 +348,7 @@
     "Magazine": 30,
     "ReloadTime": "2.2s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-M1928-A1_T.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -366,7 +366,7 @@
     "Magazine": 32,
     "ReloadTime": "2.0s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-H&KMP5A4.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -375,7 +375,7 @@
     "Magazine": 32,
     "ReloadTime": "1.9s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-H&KMP5A5.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -384,7 +384,7 @@
     "Magazine": 40,
     "ReloadTime": "2.0s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/450px-H&K_MP7A1_20-rnd.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -393,7 +393,7 @@
     "Magazine": 30,
     "ReloadTime": "2.2s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/401px-MPX_Gen_1.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -402,7 +402,7 @@
     "Magazine": 50,
     "ReloadTime": "2.0s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-FN_P90_Triple_Rail_(TR).jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -411,7 +411,7 @@
     "Magazine": 53,
     "ReloadTime": "2.5s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-Izhmashpp19bizon.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -420,7 +420,7 @@
     "Magazine": 30,
     "ReloadTime": "2.2s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-UMP_45.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -429,7 +429,7 @@
     "Magazine": 33,
     "ReloadTime": "1.9s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-KrissSuperV.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -438,7 +438,7 @@
     "Magazine": 25,
     "ReloadTime": "1.9s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-KrissSuperV.jpg"
   },
   {
     "WeaponType": "Submachine Gun",
@@ -447,7 +447,7 @@
     "Magazine": 19,
     "ReloadTime": "1.9s",
     "Range": "0-30m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/400px-KrissSuperV.jpg"
   },
   {
     "WeaponType": "Light Machine Gun",
@@ -537,7 +537,7 @@
     "Magazine": 20,
     "ReloadTime": "2.3s",
     "Range": "0-20m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-AA-12_CQB.jpg"
   },
   {
     "WeaponType": "Shotgun",
@@ -546,7 +546,7 @@
     "Magazine": 2,
     "ReloadTime": "2.2s",
     "Range": "0-20m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-LCSmithSxSShotgunField.jpg"
   },
   {
     "WeaponType": "Shotgun",
@@ -555,7 +555,7 @@
     "Magazine": 5,
     "ReloadTime": "3.7s",
     "Range": "0-20m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-Remington870Fieldgun.jpg"
   },
   {
     "WeaponType": "Shotgun",
@@ -564,7 +564,7 @@
     "Magazine": 7,
     "ReloadTime": "3.0s",
     "Range": "0-20m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-Saiga12new.jpg"
   },
   {
     "WeaponType": "Shotgun",
@@ -573,7 +573,7 @@
     "Magazine": 8,
     "ReloadTime": "5.4s",
     "Range": "0-20m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/499px-Spas12_fixed.jpg"
   },
   {
     "WeaponType": "Shotgun",
@@ -582,7 +582,7 @@
     "Magazine": 8,
     "ReloadTime": "4.8s",
     "Range": "0-20m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-M4H20NP3.jpg"
   },
   {
     "WeaponType": "Shotgun",
