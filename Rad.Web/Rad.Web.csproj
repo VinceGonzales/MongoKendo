@@ -214,12 +214,17 @@
     <Content Include="Content\images\division2\500px-LCSmithSxSShotgunField.jpg" />
     <Content Include="Content\images\division2\500px-M16A2.jpg" />
     <Content Include="Content\images\division2\500px-M4H20NP3.jpg" />
+    <Content Include="Content\images\division2\500px-M60.jpg" />
     <Content Include="Content\images\division2\500px-Montewalshwinchester.jpg" />
     <Content Include="Content\images\division2\500px-POF_P416.jpg" />
     <Content Include="Content\images\division2\500px-Remington870Fieldgun.jpg" />
+    <Content Include="Content\images\division2\500px-RPK_lmg.jpg" />
     <Content Include="Content\images\division2\500px-Saiga12new.jpg" />
     <Content Include="Content\images\division2\500px-SFA_M1A.jpg" />
     <Content Include="Content\images\division2\500px-SIG716G2_Patrol.jpg" />
+    <Content Include="Content\images\division2\L86.jpg" />
+    <Content Include="Content\images\division2\m249.jpg" />
+    <Content Include="Content\images\division2\mk46.png" />
     <Content Include="Content\images\division2\TEC-9Mini.jpg" />
     <Content Include="Content\images\fortnite\T-Constructor-HID-Constructor-007-R-T01-L.png" />
     <Content Include="Content\images\fortnite\T-Constructor-HID-Constructor-007-SR-T01-L.png" />
@@ -647,6 +652,7 @@
     <Content Include="Areas\Division2\Views\_ViewStart.cshtml" />
     <Content Include="Areas\Division2\Views\Shared\_Layout.cshtml" />
     <Content Include="Areas\Division2\Views\Main\Index.cshtml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />

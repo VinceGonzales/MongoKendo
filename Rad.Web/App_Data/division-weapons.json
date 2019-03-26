@@ -558,7 +558,7 @@
     "Magazine": 100,
     "ReloadTime": "5.8s",
     "Range": "10-50m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-M60.jpg"
   },
   {
     "WeaponType": "Light Machine Gun",
@@ -569,7 +569,7 @@
     "Magazine": 45,
     "ReloadTime": "3.0s",
     "Range": "10-50m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/500px-RPK_lmg.jpg"
   },
   {
     "WeaponType": "Light Machine Gun",
@@ -602,7 +602,7 @@
     "Magazine": 100,
     "ReloadTime": "5.6s",
     "Range": "10-50m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/m249.jpg"
   },
   {
     "WeaponType": "Light Machine Gun",
@@ -613,7 +613,7 @@
     "Magazine": 100,
     "ReloadTime": "5.5s",
     "Range": "10-50m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/m249.jpg"
   },
   {
     "WeaponType": "Light Machine Gun",
@@ -635,7 +635,7 @@
     "Magazine": 30,
     "ReloadTime": "3.0s",
     "Range": "10-50m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/L86.jpg"
   },
   {
     "WeaponType": "Light Machine Gun",
@@ -646,7 +646,7 @@
     "Magazine": 100,
     "ReloadTime": "5.0s",
     "Range": "10-50m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/mk46.png"
   },
   {
     "WeaponType": "Shotgun",
