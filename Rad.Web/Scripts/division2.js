@@ -132,8 +132,30 @@ function fn_AvgChart(weaponType) {
             { data: dmgData, axis: "Dmg", name: "Dmg", color: "#F5C0A9" }
         ],
         valueAxis: [
-            { name: "DPS" },
-            { name: "Dmg" }
+            {
+                name: "DPS",
+                majorGridLines: { visible: false },
+                plotBands: [
+                    {
+                        from: dpsAggregate.avg - 50,
+                        to: dpsAggregate.avg + 50,
+                        color: "#884885",
+                        opacity: 0.5
+                    }
+                ]
+            },
+            {
+                name: "Dmg",
+                majorGridLines: { visible: false },
+                plotBands: [
+                    {
+                        from: dmgAggregate.avg - 50,
+                        to: dmgAggregate.avg + 50,
+                        color: "#F5C0A9",
+                        opacity: 0.5
+                    }
+                ]
+            }
         ],
         categoryAxis: {
             categories: nameData,
