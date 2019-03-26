@@ -3,6 +3,8 @@ var weaponDto = {
     Name: { type: "string" },
     WeaponType: { type: "string" },
     ImageUrl: { type: "string" },
+    DPS: { type: "number" },
+    Damage: { type: "number" },
     RoF: { type: "number" },
     Magazine: { type: "number" },
     ReloadTime: { type: "string" },
@@ -25,6 +27,7 @@ function detailInit(e) {
             schema: {
                 model: {
                     fields: {
+                        Damage: { type: "number" },
                         RoF: { type: "number" },
                         Magazine: { type: "number" },
                         Range: { type: "string" },
@@ -36,6 +39,7 @@ function detailInit(e) {
         scrollable: false,
         sortable: false,
         columns: [
+            { field: "Damage", title: "Dmg", format: "{0:n0}", width: "80px" },
             { field: "RoF", title: "RoF", width: "80px" },
             { field: "Magazine", title: "Mag", width: "80px" },
             { field: "Range", title: "Rng", width: "80px" },
@@ -43,20 +47,15 @@ function detailInit(e) {
         ]
     });
 }
-function fn_GetAggregateData(weaponType, attribute) {
-    var attrib = [];
+function fn_GetAggregateData(dataList) {
     var sum = 0;
-    var weaponList = dataSourceWeapons.data();
-    $.each(weaponList, function (key, value) {
-        if (value.WeaponType == weaponType) {
-            var attribValue = parseInt(value[attribute]);
-            attrib.push(attribValue);
-            sum += attribValue;
-        }
+    $.each(dataList, function (key, value) {
+        sum += value;
     });
-    var avg = sum / attrib.length;
-    var max = Math.max.apply(Math, attrib);
-    var min = Math.min.apply(Math, attrib);
+    
+    var avg = sum / dataList.length;
+    var max = Math.max.apply(Math, dataList);
+    var min = Math.min.apply(Math, dataList);
     var obj = {};
     obj["sum"] = sum;
     obj["avg"] = avg;
@@ -64,11 +63,34 @@ function fn_GetAggregateData(weaponType, attribute) {
     obj["min"] = min;
     return obj;
 }
+function fn_GetAttribData(weaponList, attribute) {
+    var attrib = [];
+    $.each(weaponList, function (key, value) {
+        var attribValue = parseInt(value[attribute]);
+        attrib.push(attribValue);
+    });
+    return attrib;
+}
+function fn_GetNamebData(weaponList, attribute) {
+    var attrib = [];
+    $.each(weaponList, function (key, value) {
+        attrib.push(value[attribute]);
+    });
+    return attrib;
+}
 function fn_AvgChart(weaponType) {
     var filteredList = $.grep(dataSourceWeapons.data(), function (elem, indx) {
         return (elem.WeaponType == weaponType);
     });
-    var rofAggregate = fn_GetAggregateData(weaponType, "RoF");
+    
+    var nameData = fn_GetNamebData(filteredList, "Name");
+    var rofData = fn_GetAttribData(filteredList, "RoF");
+    var dpsData = fn_GetAttribData(filteredList, "DPS");
+    var dmgData = fn_GetAttribData(filteredList, "Damage");
+    var rofAggregate = fn_GetAggregateData(rofData);
+    var dpsAggregate = fn_GetAggregateData(dpsData);
+    var dmgAggregate = fn_GetAggregateData(dmgData);
+
     $("#pnlChartA").kendoChart({
         dataSource: filteredList,
         title: { text: weaponType },
@@ -76,7 +98,7 @@ function fn_AvgChart(weaponType) {
         seriesDefaults: { spacing: 0.1 },
         plotArea: { margin: { right:20 } },
         series: [
-            { field: "RoF", categoryField: "Name", name: "Rate of Fire" }
+            { field: "RoF", categoryField: "Name", name: "Rate of Fire", color: "#a0b0c0" }
         ],
         categoryAxis: {
             majorGridLines: { visible: false },
@@ -96,6 +118,33 @@ function fn_AvgChart(weaponType) {
                 }
             ],
             line: { visible: false }
+        }
+    });
+
+    $("#pnlChartB").kendoChart({
+        dataSource: filteredList,
+        title: { text: weaponType },
+        legend: { position: "bottom" },
+        seriesDefaults: { spacing: 0.1 },
+        plotArea: { margin: { right: 50 } },
+        series: [
+            { data: dpsData, axis: "DPS", name: "DPS", color: "#884885" },
+            { data: dmgData, axis: "Dmg", name: "Dmg", color: "#F5C0A9" }
+        ],
+        valueAxis: [
+            { name: "DPS" },
+            { name: "Dmg" }
+        ],
+        categoryAxis: {
+            categories: nameData,
+            majorGridLines: { visible: false },
+            axisCrossingValues: [0, 999],
+            labels: {
+                rotation: { angle: -45 }
+            }
+        },
+        tooltip: {
+            visible: true, format: "{0:n0}"
         }
     });
 }

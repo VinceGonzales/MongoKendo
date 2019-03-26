@@ -2,6 +2,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "ACR",
+    "DPS": 67568,
+    "Damage": 6237,
     "RoF": 650,
     "Magazine": 30,
     "ReloadTime": "2.2s",
@@ -11,6 +13,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "AK-M",
+    "DPS": 71100,
+    "Damage": 7110,
     "RoF": 600,
     "Magazine": 30,
     "ReloadTime": "2.5s",
@@ -20,6 +24,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "Black Market AK-M",
+    "DPS": 71100,
+    "Damage": 7110,
     "RoF": 600,
     "Magazine": 30,
     "ReloadTime": "2.3s",
@@ -29,6 +35,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "Military AK-M",
+    "DPS": 71100,
+    "Damage": 7110,
     "RoF": 600,
     "Magazine": 30,
     "ReloadTime": "2.5s",
@@ -38,6 +46,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "AUG A3",
+    "DPS": 67150,
+    "Damage": 5925,
     "RoF": 680,
     "Magazine": 30,
     "ReloadTime": "2.0s",
@@ -47,6 +57,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "CTAR",
+    "DPS": 70170,
+    "Damage": 4678,
     "RoF": 900,
     "Magazine": 30,
     "ReloadTime": "2.1s",
@@ -56,6 +68,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "F2000",
+    "DPS": 70678,
+    "Damage": 4989,
     "RoF": 850,
     "Magazine": 30,
     "ReloadTime": "2.0s",
@@ -65,6 +79,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "FAL/SA-58",
+    "DPS": 67568,
+    "Damage": 6237,
     "RoF": 650,
     "Magazine": 20,
     "ReloadTime": "2.2s",
@@ -74,6 +90,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "Tactical SA-58",
+    "DPS": 67568,
+    "Damage": 6237,
     "RoF": 650,
     "Magazine": 20,
     "ReloadTime": "2.3s",
@@ -83,6 +101,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "FAMAS",
+    "DPS": 79515,
+    "Damage": 5301,
     "RoF": 900,
     "Magazine": 30,
     "ReloadTime": "2.2s",
@@ -92,6 +112,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "G36",
+    "DPS": 70163,
+    "Damage": 5613,
     "RoF": 750,
     "Magazine": 30,
     "ReloadTime": "2.1s",
@@ -101,6 +123,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "Military G36",
+    "DPS": 70163,
+    "Damage": 5613,
     "RoF": 750,
     "Magazine": 30,
     "ReloadTime": "2.3s",
@@ -110,6 +134,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "Police M4",
+    "DPS": 70678,
+    "Damage": 4989,
     "RoF": 850,
     "Magazine": 30,
     "ReloadTime": "2.4s",
@@ -119,6 +145,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "Mk16",
+    "DPS": 68208,
+    "Damage": 6548,
     "RoF": 625,
     "Magazine": 30,
     "ReloadTime": "2.2s",
@@ -128,6 +156,8 @@
   {
     "WeaponType": "Assault Rifle",
     "Name": "P416",
+    "DPS": 77963,
+    "Damage": 6237,
     "RoF": 750,
     "Magazine": 30,
     "ReloadTime": "2.2s",
@@ -137,6 +167,8 @@
   {
     "WeaponType": "Marksman Rifle",
     "Name": "Classic M44 Carbine",
+    "DPS": 40021,
+    "Damage": 43659,
     "RoF": 55,
     "Magazine": 5,
     "ReloadTime": "4.1s",
@@ -146,6 +178,8 @@
   {
     "WeaponType": "Marksman Rifle",
     "Name": "Classic M44 Carbine Replica",
+    "DPS": 40021,
+    "Damage": 43659,
     "RoF": 55,
     "Magazine": 5,
     "ReloadTime": "4.2s",
@@ -155,6 +189,8 @@
   {
     "WeaponType": "Marksman Rifle",
     "Name": "Custom M44",
+    "DPS": 40021,
+    "Damage": 43659,
     "RoF": 55,
     "Magazine": 5,
     "ReloadTime": "3.2s",
@@ -164,6 +200,8 @@
   {
     "WeaponType": "Marksman Rifle",
     "Name": "Hunting M44",
+    "DPS": 41164,
+    "Damage": 44906,
     "RoF": 55,
     "Magazine": 5,
     "ReloadTime": "3.8s",
@@ -173,6 +211,8 @@
   {
     "WeaponType": "Marksman Rifle",
     "Name": "SRS",
+    "DPS": 38357,
+    "Damage": 38357,
     "RoF": 60,
     "Magazine": 7,
     "ReloadTime": "3.0s",
@@ -182,6 +222,8 @@
   {
     "WeaponType": "Marksman Rifle",
     "Name": "M700",
+    "DPS": 47714,
+    "Damage": 53015,
     "RoF": 54,
     "Magazine": 7,
     "ReloadTime": "7.1s",
@@ -191,6 +233,8 @@
   {
     "WeaponType": "Marksman Rifle",
     "Name": "M700 Tactical",
+    "DPS": 34802,
+    "Damage": 38669,
     "RoF": 59,
     "Magazine": 7,
     "ReloadTime": "7.1s",
@@ -199,7 +243,9 @@
   },
   {
     "WeaponType": "Marksman Rifle",
-    "Name": "SRS-1",
+    "Name": "SR-1",
+    "DPS": 37733,
+    "Damage": 37733,
     "RoF": 60,
     "Magazine": 5,
     "ReloadTime": "3.2s",
@@ -209,6 +255,8 @@
   {
     "WeaponType": "Marksman Rifle",
     "Name": "SVD",
+    "DPS": 94597,
+    "Damage": 21830,
     "RoF": 260,
     "Magazine": 10,
     "ReloadTime": "2.5s",
@@ -218,6 +266,8 @@
   {
     "WeaponType": "Rifle",
     "Name": "1886",
+    "DPS": 31185,
+    "Damage": 51975,
     "RoF": 100,
     "Magazine": 5,
     "ReloadTime": "4.0s",
@@ -227,6 +277,8 @@
   {
     "WeaponType": "Rifle",
     "Name": "ACR",
+    "DPS": 69853,
+    "Damage": 9979,
     "RoF": 420,
     "Magazine": 30,
     "ReloadTime": "2.2s",
@@ -236,6 +288,8 @@
   {
     "WeaponType": "Rifle",
     "Name": "Classic M1A",
+    "DPS": 67359,
+    "Damage": 22453,
     "RoF": 180,
     "Magazine": 10,
     "ReloadTime": "3.0s",
@@ -245,6 +299,8 @@
   {
     "WeaponType": "Rifle",
     "Name": "M1A CQB",
+    "DPS": 76507,
+    "Damage": 14345,
     "RoF": 300,
     "Magazine": 10,
     "ReloadTime": "3.0s",
@@ -254,6 +310,8 @@
   {
     "WeaponType": "Rifle",
     "Name": "M4/LAR-15",
+    "DPS": 42412,
+    "Damage": 10603,
     "RoF": 240,
     "Magazine": 30,
     "ReloadTime": "2.4s",
@@ -263,6 +321,8 @@
   {
     "WeaponType": "Rifle",
     "Name": "Mk17/Mk20",
+    "DPS": 80039,
+    "Damage": 17463,
     "RoF": 275,
     "Magazine": 20,
     "ReloadTime": "2.2s",
@@ -272,6 +332,8 @@
   {
     "WeaponType": "Rifle",
     "Name": "SIG 716",
+    "DPS": 65485,
+    "Damage": 13097,
     "RoF": 300,
     "Magazine": 20,
     "ReloadTime": "2.4s",
@@ -281,6 +343,8 @@
   {
     "WeaponType": "Rifle",
     "Name": "Urban MDR",
+    "DPS": 55300,
+    "Damage": 11850,
     "RoF": 280,
     "Magazine": 20,
     "ReloadTime": "1.9s",
@@ -290,6 +354,8 @@
   {
     "WeaponType": "Rifle",
     "Name": "USC",
+    "DPS": 39916,
+    "Damage": 9979,
     "RoF": 240,
     "Magazine": 20,
     "ReloadTime": "2.2s",
@@ -299,6 +365,8 @@
   {
     "WeaponType": "Rifle",
     "Name": "M16A2",
+    "DPS": 29625,
+    "Damage": 5925,
     "RoF": 300,
     "Magazine": 30,
     "ReloadTime": "2.4s",
@@ -308,6 +376,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "AUG",
+    "DPS": 75364,
+    "Damage": 6237,
     "RoF": 725,
     "Magazine": 25,
     "ReloadTime": "2.0s",
@@ -317,6 +387,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "T821",
+    "DPS": 74323,
+    "Damage": 8108,
     "RoF": 550,
     "Magazine": 32,
     "ReloadTime": "1.9s",
@@ -326,6 +398,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "SMG-9",
+    "DPS": 77179,
+    "Damage": 5613,
     "RoF": 825,
     "Magazine": 32,
     "ReloadTime": "2.0s",
@@ -335,6 +409,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "SMG-9 A2",
+    "DPS": 77179,
+    "Damage": 5613,
     "RoF": 825,
     "Magazine": 32,
     "ReloadTime": "1.8s",
@@ -344,6 +420,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "M1928",
+    "DPS": 68600,
+    "Damage": 6860,
     "RoF": 600,
     "Magazine": 30,
     "ReloadTime": "2.2s",
@@ -353,6 +431,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "Tommy Gun",
+    "DPS": 66520,
+    "Damage": 4989,
     "RoF": 800,
     "Magazine": 50,
     "ReloadTime": "2.2s",
@@ -362,6 +442,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "MP5",
+    "DPS": 74840,
+    "Damage": 5613,
     "RoF": 800,
     "Magazine": 32,
     "ReloadTime": "2.0s",
@@ -371,6 +453,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "MP5 ST",
+    "DPS": 74840,
+    "Damage": 5613,
     "RoF": 800,
     "Magazine": 32,
     "ReloadTime": "1.9s",
@@ -380,6 +464,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "MP7",
+    "DPS": 69128,
+    "Damage": 4366,
     "RoF": 950,
     "Magazine": 40,
     "ReloadTime": "2.0s",
@@ -389,6 +475,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "MPX",
+    "DPS": 70678,
+    "Damage": 4989,
     "RoF": 850,
     "Magazine": 30,
     "ReloadTime": "2.2s",
@@ -398,6 +486,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "P90",
+    "DPS": 67350,
+    "Damage": 4490,
     "RoF": 900,
     "Magazine": 50,
     "ReloadTime": "2.0s",
@@ -407,6 +497,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "PP-19",
+    "DPS": 69125,
+    "Damage": 5925,
     "RoF": 700,
     "Magazine": 53,
     "ReloadTime": "2.5s",
@@ -416,6 +508,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "UMP-45",
+    "DPS": 68600,
+    "Damage": 6860,
     "RoF": 600,
     "Magazine": 30,
     "ReloadTime": "2.2s",
@@ -425,6 +519,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "Vector 9mm",
+    "DPS": 74840,
+    "Damage": 3742,
     "RoF": 1,
     "Magazine": 33,
     "ReloadTime": "1.9s",
@@ -434,6 +530,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "Vector .45 APC",
+    "DPS": 74840,
+    "Damage": 3742,
     "RoF": 1,
     "Magazine": 25,
     "ReloadTime": "1.9s",
@@ -443,6 +541,8 @@
   {
     "WeaponType": "Submachine Gun",
     "Name": "Tactical Vector",
+    "DPS": 87320,
+    "Damage": 4366,
     "RoF": 1,
     "Magazine": 19,
     "ReloadTime": "1.9s",
@@ -452,6 +552,8 @@
   {
     "WeaponType": "Light Machine Gun",
     "Name": "M60",
+    "DPS": 72767,
+    "Damage": 8732,
     "RoF": 500,
     "Magazine": 100,
     "ReloadTime": "5.8s",
@@ -461,6 +563,8 @@
   {
     "WeaponType": "Light Machine Gun",
     "Name": "Classic RPK-74",
+    "DPS": 67568,
+    "Damage": 6237,
     "RoF": 650,
     "Magazine": 45,
     "ReloadTime": "3.0s",
@@ -470,6 +574,8 @@
   {
     "WeaponType": "Light Machine Gun",
     "Name": "Black Market RPK-74 E",
+    "DPS": 67568,
+    "Damage": 6237,
     "RoF": 650,
     "Magazine": 45,
     "ReloadTime": "2.5s",
@@ -479,6 +585,8 @@
   {
     "WeaponType": "Light Machine Gun",
     "Name": "Military RPKR-74 M",
+    "DPS": 67568,
+    "Damage": 6237,
     "RoF": 650,
     "Magazine": 45,
     "ReloadTime": "2.8s",
@@ -488,6 +596,8 @@
   {
     "WeaponType": "Light Machine Gun",
     "Name": "M249 B",
+    "DPS": 71463,
+    "Damage": 7796,
     "RoF": 550,
     "Magazine": 100,
     "ReloadTime": "5.6s",
@@ -497,6 +607,8 @@
   {
     "WeaponType": "Light Machine Gun",
     "Name": "Tactical M249 Para",
+    "DPS": 71463,
+    "Damage": 7796,
     "RoF": 550,
     "Magazine": 100,
     "ReloadTime": "5.5s",
@@ -506,6 +618,8 @@
   {
     "WeaponType": "Light Machine Gun",
     "Name": "MG5",
+    "DPS": 66520,
+    "Damage": 4989,
     "RoF": 800,
     "Magazine": 50,
     "ReloadTime": "5.6s",
@@ -515,6 +629,8 @@
   {
     "WeaponType": "Light Machine Gun",
     "Name": "L86",
+    "DPS": 69743,
+    "Damage": 6860,
     "RoF": 610,
     "Magazine": 30,
     "ReloadTime": "3.0s",
@@ -524,6 +640,8 @@
   {
     "WeaponType": "Light Machine Gun",
     "Name": "MK46",
+    "DPS": 71463,
+    "Damage": 7796,
     "RoF": 550,
     "Magazine": 100,
     "ReloadTime": "5.0s",
@@ -533,6 +651,8 @@
   {
     "WeaponType": "Shotgun",
     "Name": "ACS-12",
+    "DPS": 74820,
+    "Damage": 14964,
     "RoF": 300,
     "Magazine": 20,
     "ReloadTime": "2.3s",
@@ -542,6 +662,8 @@
   {
     "WeaponType": "Shotgun",
     "Name": "Double Barrel",
+    "DPS": 129720,
+    "Damage": 64860,
     "RoF": 200,
     "Magazine": 2,
     "ReloadTime": "2.2s",
@@ -551,6 +673,8 @@
   {
     "WeaponType": "Shotgun",
     "Name": "M870",
+    "DPS": 68603,
+    "Damage": 54882,
     "RoF": 75,
     "Magazine": 5,
     "ReloadTime": "3.7s",
@@ -560,6 +684,8 @@
   {
     "WeaponType": "Shotgun",
     "Name": "SASG-12",
+    "DPS": 67356,
+    "Damage": 22452,
     "RoF": 180,
     "Magazine": 7,
     "ReloadTime": "3.0s",
@@ -569,6 +695,8 @@
   {
     "WeaponType": "Shotgun",
     "Name": "SPAS-12",
+    "DPS": 69356,
+    "Damage": 59874,
     "RoF": 70,
     "Magazine": 8,
     "ReloadTime": "5.4s",
@@ -578,6 +706,8 @@
   {
     "WeaponType": "Shotgun",
     "Name": "Super 90",
+    "DPS": 79824,
+    "Damage": 29934,
     "RoF": 160,
     "Magazine": 8,
     "ReloadTime": "4.8s",
@@ -587,6 +717,8 @@
   {
     "WeaponType": "Shotgun",
     "Name": "Marine Super 90",
+    "DPS": 79824,
+    "Damage": 29934,
     "RoF": 160,
     "Magazine": 8,
     "ReloadTime": "4.3s",
@@ -596,6 +728,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "First Wave PF45",
+    "DPS": null,
+    "Damage": null,
     "RoF": 230,
     "Magazine": 12,
     "ReloadTime": "1.9s",
@@ -605,6 +739,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "Custom PF45",
+    "DPS": null,
+    "Damage": null,
     "RoF": 230,
     "Magazine": 15,
     "ReloadTime": "1.9s",
@@ -614,6 +750,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "D50",
+    "DPS": 62370,
+    "Damage": 24948,
     "RoF": 150,
     "Magazine": 8,
     "ReloadTime": "1.9s",
@@ -623,6 +761,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "M1911",
+    "DPS": 62703,
+    "Damage": 14470,
     "RoF": 260,
     "Magazine": 7,
     "ReloadTime": "1.9s",
@@ -632,6 +772,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "M45A1",
+    "DPS": null,
+    "Damage": null,
     "RoF": 260,
     "Magazine": 8,
     "ReloadTime": "1.9s",
@@ -641,6 +783,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "M9",
+    "DPS": 40748,
+    "Damage": 9979,
     "RoF": 245,
     "Magazine": 15,
     "ReloadTime": "1.7s",
@@ -650,6 +794,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "Px4 Storm Type F",
+    "DPS": null,
+    "Damage": null,
     "RoF": 250,
     "Magazine": 17,
     "ReloadTime": "1.9s",
@@ -659,6 +805,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "Px4 Storm Type T",
+    "DPS": null,
+    "Damage": null,
     "RoF": 250,
     "Magazine": 20,
     "ReloadTime": "1.9s",
@@ -668,6 +816,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "X-45",
+    "DPS": 67773,
+    "Damage": 10166,
     "RoF": 250,
     "Magazine": 10,
     "ReloadTime": "1.9s",
@@ -677,6 +827,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "X-45 Tactical Replica",
+    "DPS": 67773,
+    "Damage": 10166,
     "RoF": 400,
     "Magazine": 15,
     "ReloadTime": "1.0s",
@@ -686,6 +838,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "93R",
+    "DPS": 74323,
+    "Damage": 4054,
     "RoF": 1100,
     "Magazine": 20,
     "ReloadTime": "1.9s",
@@ -695,6 +849,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "586 Magnum",
+    "DPS": 39917,
+    "Damage": 14969,
     "RoF": 160,
     "Magazine": 6,
     "ReloadTime": "1.7s",
@@ -704,6 +860,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "Police 686 Magnum",
+    "DPS": 48000,
+    "Damage": 18000,
     "RoF": 160,
     "Magazine": 6,
     "ReloadTime": "1.5s",
@@ -713,6 +871,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "Diceros",
+    "DPS": 26961,
+    "Damage": 8987,
     "RoF": 180,
     "Magazine": 7,
     "ReloadTime": "1.8s",
@@ -722,6 +882,8 @@
   {
     "WeaponType": "Sidearm",
     "Name": "Snubnosed Diceros",
+    "DPS": 26961,
+    "Damage": 8987,
     "RoF": 180,
     "Magazine": 6,
     "ReloadTime": "1.8s",
@@ -731,9 +893,12 @@
   {
     "WeaponType": "Sidearm",
     "Name": "Double Barrel Sawed Off Shotgun",
+    "DPS": 129720,
+    "Damage": 64860,
     "RoF": 200,
     "Magazine": 2,
     "ReloadTime": "2.2s",
-    "Range": "0-30m"
+    "Range": "0-30m",
+    "ImageUrl": ""
   }
 ]

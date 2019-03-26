@@ -35,6 +35,9 @@
     <div class="row">
         <div id="pnlChartA" class="col-md-11" />
     </div>
+    <div class="row">
+        <div id="pnlChartB" class="col-md-11" />
+    </div>
 </div>
 
 @section scripts {
@@ -58,8 +61,9 @@ $(function () {
     $("#pnlMain").kendoGrid({
         dataSource: dataSourceWeapons,
         columns: [
-            { field: "Name", title: "Name", width: 100 },
-            { field: "WeaponType", title: "WeaponType", width: 110 }
+            { field: "Name", title: "Name", width: 90 },
+            { field: "WeaponType", title: "WeaponType", width: 90 },
+            { field: "DPS", title: "DPS", format: "{0:n0}", width: 90 }
         ],
         sortable: true,
         height: 500,
