@@ -6,6 +6,7 @@ var weaponDto = {
     DPS: { type: "number" },
     Damage: { type: "number" },
     RoF: { type: "number" },
+    Ammunition: { type: "string" },
     Magazine: { type: "number" },
     ReloadTime: { type: "string" },
     Range: { type: "string" }

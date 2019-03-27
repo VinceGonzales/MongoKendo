@@ -10,6 +10,7 @@ $("table#tablepress-388 tbody tr").each(function ($indx, $elem) {
     weapon.RoF = parseInt($(this).find("td.column-4").text());
     weapon.Magazine = parseInt($(this).find("td.column-5").text());
     weapon.ReloadTime = $(this).find("td.column-6").text();
+    weapon.Ammunition = "5.56";
     weapon.Range = "";
 	weapon.ImageUrl = "";
     weapons.push(weapon);
@@ -23,6 +24,7 @@ $("table#tablepress-389 tbody tr").each(function ($indx, $elem) {
     weapon.RoF = parseInt($(this).find("td.column-4").text());
     weapon.Magazine = parseInt($(this).find("td.column-5").text());
     weapon.ReloadTime = $(this).find("td.column-6").text();
+    weapon.Ammunition = "7.62";
     weapon.Range = "";
 	weapon.ImageUrl = "";
     weapons.push(weapon);
@@ -36,6 +38,7 @@ $("table#tablepress-390 tbody tr").each(function ($indx, $elem) {
     weapon.RoF = parseInt($(this).find("td.column-4").text());
     weapon.Magazine = parseInt($(this).find("td.column-5").text());
     weapon.ReloadTime = $(this).find("td.column-6").text();
+    weapon.Ammunition = "7.62";
     weapon.Range = "";
 	weapon.ImageUrl = "";
     weapons.push(weapon);
@@ -49,6 +52,7 @@ $("table#tablepress-391 tbody tr").each(function ($indx, $elem) {
     weapon.RoF = parseInt($(this).find("td.column-4").text());
     weapon.Magazine = parseInt($(this).find("td.column-5").text());
     weapon.ReloadTime = $(this).find("td.column-6").text();
+    weapon.Ammunition = ".45";
     weapon.Range = "";
 	weapon.ImageUrl = "";
     weapons.push(weapon);
@@ -62,6 +66,7 @@ $("table#tablepress-393 tbody tr").each(function ($indx, $elem) {
     weapon.RoF = parseInt($(this).find("td.column-4").text());
     weapon.Magazine = parseInt($(this).find("td.column-5").text());
     weapon.ReloadTime = $(this).find("td.column-6").text();
+    weapon.Ammunition = "5.56";
     weapon.Range = "";
 	weapon.ImageUrl = "";
     weapons.push(weapon);
@@ -75,6 +80,7 @@ $("table#tablepress-392 tbody tr").each(function ($indx, $elem) {
     weapon.RoF = parseInt($(this).find("td.column-4").text());
     weapon.Magazine = parseInt($(this).find("td.column-5").text());
     weapon.ReloadTime = $(this).find("td.column-6").text();
+    weapon.Ammunition = "shells";
     weapon.Range = "";
 	weapon.ImageUrl = "";
     weapons.push(weapon);
@@ -88,6 +94,7 @@ $("table#tablepress-394 tbody tr").each(function ($indx, $elem) {
     weapon.RoF = parseInt($(this).find("td.column-4").text());
     weapon.Magazine = parseInt($(this).find("td.column-5").text());
     weapon.ReloadTime = $(this).find("td.column-6").text();
+    weapon.Ammunition = "9mm";
     weapon.Range = "";
 	weapon.ImageUrl = "";
     weapons.push(weapon);

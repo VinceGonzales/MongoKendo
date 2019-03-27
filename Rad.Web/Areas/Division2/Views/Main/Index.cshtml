@@ -22,7 +22,7 @@
         <div id="pnlMain" class="col-md-7">
         </div>
         <div id="pnlDetail" class="col-md-4">
-            <img src="~/Content/images/division2/division2_logo.png" style="width: 420px;" />
+            <img src="~/Content/images/division2/tom-clancys-the-division.png" style="width: 420px;" />
         </div>
     </div>
     <div class="row">
@@ -62,7 +62,8 @@ $(function () {
         dataSource: dataSourceWeapons,
         columns: [
             { field: "Name", title: "Name", width: 90 },
-            { field: "WeaponType", title: "WeaponType", width: 90 },
+            { field: "WeaponType", title: "Type", width: 90 },
+            { field: "Ammunition", title: "Ammo", width: 90 },
             { field: "DPS", title: "DPS", format: "{0:n0}", width: 90 }
         ],
         sortable: true,

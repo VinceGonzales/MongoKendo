@@ -11,6 +11,7 @@ namespace Rad.Web.Areas.Division2.Models
         public int? DPS { get; set; }
         public int? Damage { get; set; }
         public int RoF { get; set; }
+        public string Ammunition { get; set; }
         public int Magazine { get; set; }
         public string ReloadTime { get; set; }
         public string Range { get; set; }
