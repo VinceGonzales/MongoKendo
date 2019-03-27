@@ -224,8 +224,12 @@
     <Content Include="Content\images\division2\famas.jpg" />
     <Content Include="Content\images\division2\L86.jpg" />
     <Content Include="Content\images\division2\m249.jpg" />
+    <Content Include="Content\images\division2\mk16.jpg" />
     <Content Include="Content\images\division2\mk46.png" />
+    <Content Include="Content\images\division2\srs-a1.jpg" />
+    <Content Include="Content\images\division2\svd.jpg" />
     <Content Include="Content\images\division2\TEC-9Mini.jpg" />
+    <Content Include="Content\images\division2\the_division_m44.jpg" />
     <Content Include="Content\images\division2\tom-clancys-the-division.png" />
     <Content Include="Content\images\fortnite\T-Constructor-HID-Constructor-007-R-T01-L.png" />
     <Content Include="Content\images\fortnite\T-Constructor-HID-Constructor-007-SR-T01-L.png" />
