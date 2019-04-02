@@ -297,7 +297,7 @@
     "Magazine": 30,
     "ReloadTime": "2.4s",
     "Range": "10-60m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/550px-Lvoa-s_2.jpg"
   },
   {
     "WeaponType": "Rifle",
@@ -309,7 +309,7 @@
     "Magazine": 20,
     "ReloadTime": "2.2s",
     "Range": "10-60m",
-    "ImageUrl": "/content/images/division2/"
+    "ImageUrl": "/content/images/division2/350px-Police_MK17.png"
   },
   {
     "WeaponType": "Rifle",
