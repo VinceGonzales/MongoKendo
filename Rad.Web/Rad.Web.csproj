@@ -659,6 +659,7 @@
     <Content Include="Areas\Division2\Views\_ViewStart.cshtml" />
     <Content Include="Areas\Division2\Views\Shared\_Layout.cshtml" />
     <Content Include="Areas\Division2\Views\Main\Index.cshtml" />
+    <Content Include="App_Data\division-talents.json" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />

@@ -100,3 +100,16 @@ $("table#tablepress-394 tbody tr").each(function ($indx, $elem) {
     weapons.push(weapon);
 });
 console.log(JSON.stringify(weapons));
+
+//gamerdiscovery.com/the-division-2-weapon-and-gear-talents-list/
+var WeaponTalents = [];
+$("table#tablepress-7 tbody tr").each(function ($indx, $elem) {
+	var talent = {};
+	talent.Name = $(this).find("td.column-1").text();
+	talent.Description = $(this).find("td.column-2").text();
+	talent.Stacks = $(this).find("td.column-3").text();
+	talent.Requirements = $(this).find("td.column-5").text();
+	WeaponTalents.push(talent);
+});
+console.log(JSON.stringify(WeaponTalents));
+
